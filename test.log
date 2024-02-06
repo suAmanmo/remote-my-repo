@@ -1,0 +1,5 @@
+//test ignore
+//.gitignore -> *.log
+git commit -m "第十三次提交 add test.log to test .gitignore"
+On branch main
+nothing to commit, working tree clean
