@@ -1,0 +1,3 @@
+//git关联本地仓库与远程仓库
+//git remote add #origin_仓库别名# <git_links>
+//git push -u#upstream# origin main:main
