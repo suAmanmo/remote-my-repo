@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :972: for Floccus bookmark sync browser extension -->
+
+<folder id="2">
+  <title>Bookmarks Bar</title>
+  <bookmark href="https://www.douyu.com/room/my_follow" id="6">
+    <title>我的关注 - 斗鱼</title>
+  </bookmark>
+  <bookmark href="https://www.huya.com/myfollow" id="7">
+    <title>我的订阅</title>
+  </bookmark>
+  <bookmark href="https://www.bilibili.com/" id="8">
+    <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
+  </bookmark>
+  <bookmark href="https://www.bilibili.com/bangumi/media/md5551" id="9">
+    <title>吹響！上低音號 第二季（僅限台灣地區） _ 番剧 _ bilibili _ 哔哩哔哩弹幕视频网</title>
+  </bookmark>
+  <bookmark href="https://tophub.today/?ivk_sa=1024320u" id="10">
+    <title>今日热榜官网</title>
+  </bookmark>
+  <bookmark href="https://mail.google.com/mail/u/0/#inbox" id="11">
+    <title>收件箱 - mo13750105284@gmail.com - Gmail</title>
+  </bookmark>
+  <bookmark href="https://mail.163.com/js6/main.jsp?sid=bAjcqLcPXzgbzkVDZNPPtMXCZLKOyWso&amp;df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D" id="12">
+    <title>网易邮箱6.0版</title>
+  </bookmark>
+  <bookmark href="https://linux.do/" id="872">
+    <title>LINUX DO</title>
+  </bookmark>
+  <bookmark href="https://temp-mail.org/zh/" id="13">
+    <title>Temp Mail - 临时性 - 匿名电子邮件</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/" id="15">
+    <title>Google</title>
+  </bookmark>
+  <bookmark href="https://graph.baidu.com/pcpage/index?tpl_from=pc" id="16">
+    <title>百度识图搜索结果</title>
+  </bookmark>
+  <bookmark href="https://translate.google.com.hk/?hl=zh-CN&amp;tab=TT" id="17">
+    <title>Google 翻译</title>
+  </bookmark>
+  <bookmark href="https://papago.naver.com/" id="18">
+    <title>Papago</title>
+  </bookmark>
+  <bookmark href="https://transmart.qq.com/zh-CN/index" id="19">
+    <title>腾讯交互翻译TranSmart</title>
+  </bookmark>
+  <bookmark href="https://dict.naver.com/" id="20">
+    <title>네이버 사전 (NAVER dictionary)</title>
+  </bookmark>
+  <bookmark href="https://vscode.dev/" id="21">
+    <title>default (Workspace) - Visual Studio Code</title>
+  </bookmark>
+  <bookmark href="https://www.52pojie.cn/" id="22">
+    <title>吾爱破解 - LCG - LSG|安卓破解|病毒分析|www.52pojie.cn</title>
+  </bookmark>
+  <bookmark href="https://outlook.office.com/mail/?actSwt=true" id="14">
+    <title>邮件 - Mingcong Mo(莫铭聪) - Outlook</title>
+  </bookmark>
+  <bookmark href="http://www.jrkan365.com/" id="23">
+    <title>JRKAN直播</title>
+  </bookmark>
+  <bookmark href="http://jandan.net/" id="24">
+    <title>煎蛋 - 地球上没有新鲜事</title>
+  </bookmark>
+  <bookmark href="https://szfilehelper.weixin.qq.com/" id="25">
+    <title>微信文件传输助手网页版</title>
+  </bookmark>
+  <bookmark href="https://abovsemi.sharepoint.com/teams/Documentation/Shared%20Documents/Forms/AllItems.aspx?ga=1&amp;viewid=2c225b48-0982-453b-ba8d-7cb12abda8cc" id="873">
+    <title>Documentation - 文档 - 所有文档</title>
+  </bookmark>
+  <folder id="26">
+    <title>资源分享下载</title>
+    <folder id="602">
+      <title>音乐</title>
+      <bookmark href="https://music.ghxi.com/" id="614">
+        <title>果核音乐搜搜 - 音乐搜全网</title>
+      </bookmark>
+      <bookmark href="https://www.koyi.pub/" id="615">
+        <title>可易音乐(Koyimusic) – Free Download KPop Music MP3!</title>
+      </bookmark>
+      <bookmark href="https://unlock-music-ix.netlify.app/" id="616">
+        <title>音乐解锁</title>
+      </bookmark>
+      <bookmark href="https://www.cnblogs.com/asionwu" id="617">
+        <title>asionwu - 博客园</title>
+      </bookmark>
+      <bookmark href="https://kpoptap.com/" id="618">
+        <title>Download Kpop Music - MP3, AAC M4A , FLAC, HI-RES - KpopTap.com</title>
+      </bookmark>
+      <bookmark href="https://flac.xyz/" id="619">
+        <title>flac.xyz – Lossless &amp; Hi-Res Music Download</title>
+      </bookmark>
+      <bookmark href="https://git.unlock-music.dev/liuguangw/qqmusic_proxy_rs" id="620">
+        <title>liuguangw/qqmusic_proxy_rs: QQ音乐mitm http代理 - qqmusic_proxy_rs - Unlock Music Git Service</title>
+      </bookmark>
+      <bookmark href="https://gitee.com/lagoushangdiao/migu3d-decrypt" id="621">
+        <title>migu3d-decrypt: 咪咕3D音乐解密 本工具完全免费！</title>
+      </bookmark>
+      <bookmark href="https://tool.liumingye.cn/music/?page=homePage#/" id="622">
+        <title>MyFreeMP3</title>
+      </bookmark>
+      <bookmark href="https://soundcloudmp3.org/" id="623">
+        <title>Soundcloud Downloader and SoundCloud to MP3 Converter</title>
+      </bookmark>
+      <bookmark href="https://tcwsyy.com/" id="624">
+        <title>TC唐朝无损-Hi-Res</title>
+      </bookmark>
+      <bookmark href="https://usmusic.cn/" id="625">
+        <title>UsMusic – 不知归路</title>
+      </bookmark>
+      <bookmark href="https://rentry.org/firehawk52" id="845">
+        <title>Firehawk52 Official - Saving Digital Legacy</title>
+      </bookmark>
+      <bookmark href="https://hiphoplossless.com/" id="946">
+        <title>Hip-Hop Lossless | The Real Hip-Hop Lives Here</title>
+      </bookmark>
+      <bookmark href="https://tool.liumingye.cn/music/?page=searchPage#/" id="947">
+        <title>MyFreeMP3</title>
+      </bookmark>
+      <bookmark href="https://4sashi.com/" id="951">
+        <title>4Sashi.COM ← Kpop, Jpop, Downloads+</title>
+      </bookmark>
+    </folder>
+    <folder id="603">
+      <title>应用软件</title>
+      <bookmark href="https://www.423down.com/" id="626">
+        <title>423Down</title>
+      </bookmark>
+      <bookmark href="https://4pda.to/forum/index.php?act=idx" id="627">
+        <title>4PDA</title>
+      </bookmark>
+      <bookmark href="http://www.dayanzai.me/" id="628">
+        <title>大眼仔旭 - 专注视频剪辑、解压、录屏、思维导图等办公资源分享</title>
+      </bookmark>
+      <bookmark href="https://www.fahai.org/" id="629">
+        <title>法海之路 - 生命不息，折腾不止</title>
+      </bookmark>
+      <bookmark href="http://iyoung.ysepan.com/" id="630">
+        <title>飞扬时空 http://iyoung.ysepan.com</title>
+      </bookmark>
+      <bookmark href="https://www.fzxx.xyz/" id="631">
+        <title>风之暇想博客 - 软件综合分享站</title>
+      </bookmark>
+      <bookmark href="https://foxirj.com/" id="632">
+        <title>佛系软件 - 精品Windows,macOS破解软件下载</title>
+      </bookmark>
+      <bookmark href="https://www.ghxi.com/" id="633">
+        <title>果核剥壳 - 互联网的净土</title>
+      </bookmark>
+      <bookmark href="https://www.damogo.cn/index.html" id="634">
+        <title>首页 | 大蘑菇资源网</title>
+      </bookmark>
+      <bookmark href="https://www.nite07.com/laiyuan/" id="635">
+        <title>我分享的资源的主要来源 | Nite07的小窝</title>
+      </bookmark>
+      <bookmark href="https://www.iplaysoft.com/" id="636">
+        <title>异次元软件世界 - 软件改变生活！</title>
+      </bookmark>
+      <bookmark href="https://alist.ygxz.xyz/" id="637">
+        <title>主页 | 一个小站的 AList</title>
+      </bookmark>
+      <bookmark href="https://www.cybermania.ws/software/adobe-genp/" id="638">
+        <title>Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.2.0 | CyberMania</title>
+      </bookmark>
+      <bookmark href="https://alternativeto.net/" id="639">
+        <title>AlternativeTo - Crowdsourced software recommendations</title>
+      </bookmark>
+      <bookmark href="https://apphot.cc/" id="640">
+        <title>Apphot - 软件汉化, 手机应用, 绿色, 好玩, 烈火与您共分享</title>
+      </bookmark>
+      <bookmark href="http://dreamcast2.ysepan.com/" id="641">
+        <title>Dreamcast</title>
+      </bookmark>
+      <bookmark href="https://pan.lanzoui.com/b010ttokj" id="642">
+        <title>DreamcastQQ</title>
+      </bookmark>
+      <bookmark href="http://idman.ys168.com/" id="643">
+        <title>IDM,IDM群分享,IDM吧,IDM破解版,IDM下载,IDM官网,IDM 6.39 build 8</title>
+      </bookmark>
+      <bookmark href="https://artifacts.videolan.org/vlc/" id="644">
+        <title>Index of /vlc/</title>
+      </bookmark>
+      <bookmark href="https://www.mefcl.com/" id="645">
+        <title>mefcl&apos;blog - 分享纯净好资源</title>
+      </bookmark>
+      <bookmark href="https://www.nite07.com/" id="646">
+        <title>Nite07的小窝 - 优质软件资源站</title>
+      </bookmark>
+      <bookmark href="https://scloud.ws/" id="647">
+        <title>SCloud.WS</title>
+      </bookmark>
+      <bookmark href="http://www.th-sjy.com/" id="648">
+        <title>th_sjy 专注软件汉化和资源分享，Software localization, Sinicization</title>
+      </bookmark>
+      <bookmark href="https://yuesekaer.com/" id="649">
+        <title>yuesekaer小站</title>
+      </bookmark>
+      <bookmark href="https://lrepacks.net/" id="650">
+        <title>Авторские репаки от ELCHUPACABRA - REPACK скачать</title>
+      </bookmark>
+      <bookmark href="https://w14.monkrus.ws/" id="651">
+        <title>Варез от m0nkrus&apos;a [Warez by m0nkrus]</title>
+      </bookmark>
+      <bookmark href="https://4pda.to/forum/index.php?act=search&amp;source=pst&amp;noform=1&amp;username=OsitKP" id="652">
+        <title>Поиск - 4PDA</title>
+      </bookmark>
+      <bookmark href="https://cxapk.com/" id="826">
+        <title>辰夕小站 - 只为纯净！</title>
+      </bookmark>
+      <bookmark href="https://www.digit77.com/macapps/parallels-desktop-business-edition/#download-explan" id="836">
+        <title>Parallels Desktop 19.1.0 破解版 – Mac上最优秀的虚拟机 - Digit77.com | 海量精品Mac应用免费分享</title>
+      </bookmark>
+      <bookmark href="https://en.taiwebs.com/?lang=HK" id="859">
+        <title>Share and Download Free Software - Updated daily</title>
+      </bookmark>
+      <bookmark href="https://www.yxssp.com/" id="874">
+        <title>异星软件空间 | 感受不一样的精彩体验！</title>
+      </bookmark>
+      <bookmark href="https://codecpack.co/" id="875">
+        <title>CodecPack.Co | Download Audio Video Software</title>
+      </bookmark>
+      <bookmark href="https://www.heu8.net/" id="887">
+        <title>HEU8 | 知彼而知己网分享互联网优质资源，常用绿色破解版软件</title>
+      </bookmark>
+      <bookmark href="https://kyome.io/runcat/index.html?lang=en" id="899">
+        <title>RunCat</title>
+      </bookmark>
+      <bookmark href="https://sai.piv.ink/" id="905">
+        <title>PaintTool SAI</title>
+      </bookmark>
+      <bookmark href="https://www.ypojie.com/" id="923">
+        <title>易破解 - 给你所需要的内容</title>
+      </bookmark>
+      <bookmark href="https://www.majorgeeks.com/" id="959">
+        <title>MajorGeeks.Com - MajorGeeks</title>
+      </bookmark>
+    </folder>
+    <folder id="611">
+      <title>影视</title>
+      <folder id="684">
+        <title>家庭影院/HiFi</title>
+        <bookmark href="https://www.chiphell.com/thread-2445647-1-1.html" id="744">
+          <title>madVR hdr Measure 181 - 电脑讨论(新) - Chiphell - 分享与交流用户体验</title>
+        </bookmark>
+        <bookmark href="http://www.avbuzz.com/audio-video/202003/madvr-hdr-measure-113-2/" id="745">
+          <title>一步一腳印</title>
+        </bookmark>
+        <bookmark href="https://www.chiphell.com/thread-2375777-10-1.html" id="746">
+          <title>Jellyfin中国特供版+Docker镜像，含驱动，免折腾开箱即用 - 第10页 - 电脑讨论 - Chiphell - 分享与交流用户体验</title>
+        </bookmark>
+        <bookmark href="https://tieba.baidu.com/p/6607767346" id="747">
+          <title>求问为什么画面整个一片绿紫，怎么调【potplayer吧】_百度贴吧</title>
+        </bookmark>
+        <bookmark href="https://www.hao4k.cn/forum.php?mod=viewthread&amp;tid=26476&amp;highlight=madVR" id="748">
+          <title>基于 PotPlayer 和 madVR 的播放器的设置教程和方法-电脑播放4K-hao4k</title>
+        </bookmark>
+        <bookmark href="https://www.jianshu.com/p/842e9dc29cfd" id="749">
+          <title>Potpalyer+LAV Filters+madVR+xysubFilter++FxSound从零开始打造自用极简绿色完美播放器 - 简书</title>
+        </bookmark>
+        <bookmark href="https://bluesky-soft.com/BlueskyFRC.html" id="846">
+          <title>Bluesky Frame Rate Converter</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.mmybt.com/thread-335282-1-1.html" id="685">
+        <title>[顶级收藏版][黑社会 1-2][极致画质洗版][1080p 蓝光-MKV/共12G][国粤双语][中文字幕][阿里云盘]_百度网盘_百度云资源 - 慢慢游社区</title>
+      </bookmark>
+      <bookmark href="https://www.netfly.fun/vod/play/27801-3-38.html" id="686">
+        <title>《黄金渔场》第822期_高清1080P在线观看_在线下载_日韩综艺_奈飞中文影视 - 奈飞中文网</title>
+      </bookmark>
+      <bookmark href="https://tieba.baidu.com/p/7194996294" id="687">
+        <title>【图片】LG 48cxpca 个人使用情况【lg电视吧】_百度贴吧</title>
+      </bookmark>
+      <bookmark href="https://www.miobt.com/" id="688">
+        <title>＊MioBT＊</title>
+      </bookmark>
+      <bookmark href="https://shimo.im/tables/16q8Mz9e0PsGnak7?table=wrBqXMN06aa&amp;view=pvGIWZJB3pd#/" id="689">
+        <title>48VR公演回放-FreeGoNow</title>
+      </bookmark>
+      <bookmark href="http://bszb9911.com/broadcast/lists/3" id="690">
+        <title>比赛直播-2022世界杯高清直播,NBA免费高清直播,电竞赛事直播,足球篮球电竞即时比分</title>
+      </bookmark>
+      <bookmark href="https://www.bdys01.com/" id="691">
+        <title>哔嘀影视（简称BDYS），热门电影，最新电影，最新电视剧，免费下载，迅雷下载，磁力下载，电驴下载，免费在线观看</title>
+      </bookmark>
+      <bookmark href="http://www.dlkoo.cc/" id="692">
+        <title>大连生活网－影视娱乐下载</title>
+      </bookmark>
+      <bookmark href="https://ddys.art/" id="693">
+        <title>低端影视 - 超清在线视频站</title>
+      </bookmark>
+      <bookmark href="https://ddys.site/" id="694">
+        <title>低端影视 网址发布页</title>
+      </bookmark>
+      <bookmark href="https://www.yakgj.com/vod-play-id-24303-src-1-num-1.html" id="695">
+        <title>第01集-难兄难弟粤语-港剧-粤爱看</title>
+      </bookmark>
+      <bookmark href="https://wwl.lanzoue.com/b027y7g5c?password=5qu7" id="696">
+        <title>电视</title>
+      </bookmark>
+      <bookmark href="https://dongmanhuayuan.myheartsite.com/" id="697">
+        <title>动漫花园资源网-动漫花园镜像站 ~ 動漫花園資源網镜像站 - 動漫愛好者的自由交流平台</title>
+      </bookmark>
+      <bookmark href="https://subhd.tv/" id="698">
+        <title>分享交流下载字幕平台 - SubHD</title>
+      </bookmark>
+      <bookmark href="https://zhuanlan.zhihu.com/p/141417244" id="699">
+        <title>精心整理的20个字幕下载网站 - 知乎</title>
+      </bookmark>
+      <bookmark href="https://amemoes.com/" id="700">
+        <title>萌芽の资料库 - by AMEMOES</title>
+      </bookmark>
+      <bookmark href="http://www.lwgod.org/" id="701">
+        <title>梦幻天堂·龙网 - 最新电影下载,720p,1080p,高清mkv,rmvb,百度网盘迅雷,BT种子搜索,影视游戏论坛,美剧韩剧,美女图片,视频快播Qvod在线</title>
+      </bookmark>
+      <bookmark href="https://ddys.art/risque-business-japan/?ep=2" id="702">
+        <title>人 性大不同 日本篇 (更新至06) - 低端影视</title>
+      </bookmark>
+      <bookmark href="https://dmhy.anoneko.com/" id="703">
+        <title>首頁 - 動漫花園資源網 - 動漫愛好者的自由交流平台</title>
+      </bookmark>
+      <bookmark href="https://www.52xkdy.com/" id="704">
+        <title>星空影院-免费在线看电影、追剧就上星空电影院</title>
+      </bookmark>
+      <bookmark href="https://trace.moe/" id="705">
+        <title>Anime Scene Search Engine - trace.moe</title>
+      </bookmark>
+      <bookmark href="https://bbs.acgrip.com/" id="706">
+        <title>Anime字幕论坛 - Powered by Discuz!</title>
+      </bookmark>
+      <bookmark href="https://iptv-org.github.io/" id="707">
+        <title>iptv-org</title>
+      </bookmark>
+      <bookmark href="https://yydsys.top/duo/v.json" id="708">
+        <title>IPTV安卓源_https://yydsys.top/duo/v.json</title>
+      </bookmark>
+      <bookmark href="https://rargb.to/" id="709">
+        <title>RARBG Rarbg Index page - RARBG.to - RARBG Proxy</title>
+      </bookmark>
+      <bookmark href="https://proxyrarbg.org/torrents.php?r=46033770" id="710">
+        <title>RARBG Torrents , films , download</title>
+      </bookmark>
+      <bookmark href="https://1337x.to/" id="711">
+        <title>Torrent Search Engine | 1337x.to</title>
+      </bookmark>
+      <bookmark href="https://vcb-s.com/" id="712">
+        <title>VCB-Studio - 大家一起实现的故事！</title>
+      </bookmark>
+      <bookmark href="https://tgx.rs/" id="827">
+        <title>TGx:Home</title>
+      </bookmark>
+      <bookmark href="https://www.bdys.me/" id="828">
+        <title>bdys.me</title>
+      </bookmark>
+      <bookmark href="https://xhdwc.tk/" id="847">
+        <title>影視TV</title>
+      </bookmark>
+      <bookmark href="https://ani.gamer.com.tw/" id="916">
+        <title>巴哈姆特動畫瘋</title>
+      </bookmark>
+      <bookmark href="https://www.agedm.org/" id="917">
+        <title>AGE动漫 - 在线动漫观看</title>
+      </bookmark>
+      <bookmark href="https://www.westinyou.com/major_emby_public_services_for_charity/" id="935">
+        <title>各大 Emby 公益服 - westinyou</title>
+      </bookmark>
+      <bookmark href="https://torrentgalaxy.to/" id="936">
+        <title>TGx:Home</title>
+      </bookmark>
+      <bookmark href="https://www.stream-link.org/" id="953">
+        <title>Stream-link.org</title>
+      </bookmark>
+    </folder>
+    <folder id="612">
+      <title>游戏</title>
+      <folder id="713">
+        <title>硬件外设资源</title>
+        <bookmark href="https://www.witrn.com/?p=191#11_U3" id="750">
+          <title>WITRN_U3 USB电压电流表说明书 – Witrn Super Charge Systems</title>
+        </bookmark>
+        <bookmark href="http://vlo.name:3000/ssdtool/" id="751">
+          <title>SSD utils</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://bbs.saraba1st.com/2b/thread-2029269-1-1.html" id="714">
+        <title>【汉化楼】众包汉化之《新美妙世界》 - 游戏论坛 - Stage1st - stage1/s1 游戏动漫论坛</title>
+      </bookmark>
+      <bookmark href="http://2011.emu618.net:6180/" id="715">
+        <title>国治模拟精品屋(绿色站)</title>
+      </bookmark>
+      <bookmark href="https://www.oldmanemu.net/" id="716">
+        <title>老男人游戏网 | OldmanEmu.net</title>
+      </bookmark>
+      <bookmark href="https://mjai.ekyu.moe/zh-cn.html" id="717">
+        <title>麻将 AI 工具 - 检讨牌谱，派遣个室</title>
+      </bookmark>
+      <bookmark href="https://dos.zczc.cz/" id="718">
+        <title>在线 DOS 游戏</title>
+      </bookmark>
+      <bookmark href="http://bbh.gaoqingpai.com/hrd/index.html?round=37&amp;gameType=5454058&amp;from=singlemessage" id="719">
+        <title>长生劫八宝盒机关</title>
+      </bookmark>
+      <bookmark href="http://mudchina.github.io/" id="720">
+        <title>中文MUD大全</title>
+      </bookmark>
+      <bookmark href="https://batocera.org/" id="721">
+        <title>Batocera.linux</title>
+      </bookmark>
+      <bookmark href="https://www.dogfight360.com/blog/" id="722">
+        <title>Dogfight360 – 羽翼城个人博客</title>
+      </bookmark>
+      <bookmark href="https://eggnsemulator.com/" id="723">
+        <title>Egg NS Emulator: Best Nintendo Switch Emulator for Android</title>
+      </bookmark>
+      <bookmark href="https://www.emucr.com/" id="724">
+        <title>EmuCR - Emulator News &amp; Download (EmuCR.Com)</title>
+      </bookmark>
+      <bookmark href="https://fitgirl-repacks.site/" id="725">
+        <title>FitGirl Repacks - The ONLY official site for FitGirl Repacks. Every single FG repack installer has a link inside, which leads here. Do not fall for fake and scam sites, which are using my name.</title>
+      </bookmark>
+      <bookmark href="https://jstris.jezevec10.com/?play=8" id="726">
+        <title>Jstris</title>
+      </bookmark>
+      <bookmark href="https://mitay.net/LeagueTavern/" id="727">
+        <title>LeagueTavern帮助手册 | LeagueTavern</title>
+      </bookmark>
+      <bookmark href="https://github.com/MRHPx/GOG-Games" id="728">
+        <title>MRHPx/GOG-Games: A fork of Good Old Downloads&apos; &quot;GOG Games&quot; hosted on Tor.</title>
+      </bookmark>
+      <bookmark href="https://www.razer.com/synapse-3" id="729">
+        <title>Razer Synapse 3 - Cloud-Based Hardware Configuration Tool | Razer United States</title>
+      </bookmark>
+      <bookmark href="https://www.retrobat.org/" id="730">
+        <title>RETROBAT Officiel - Emulation station powered for Windows</title>
+      </bookmark>
+      <bookmark href="https://rpcs3.net/" id="731">
+        <title>RPCS3 - The PlayStation 3 Emulator</title>
+      </bookmark>
+      <bookmark href="https://liferestart.syaro.io/public/index.html" id="732">
+        <title>Life Restart</title>
+      </bookmark>
+      <bookmark href="https://thorium.rocks/games/" id="733">
+        <title>Thorium Rocks Games</title>
+      </bookmark>
+      <bookmark href="http://ys.bcrc.site/" id="829">
+        <title>Ballance Community Resource Center</title>
+      </bookmark>
+      <bookmark href="https://f95zone.to/" id="844">
+        <title>F95zone</title>
+      </bookmark>
+      <bookmark href="https://www.andreinc.net/2024/02/06/the-sinusoidal-tetris" id="848">
+        <title>The sinusoidal tetris | andreinc</title>
+      </bookmark>
+      <bookmark href="https://www.playok.com/zh/reversi/" id="900">
+        <title>PlayOK - 在线黑白棋遊戲</title>
+      </bookmark>
+      <bookmark href="https://2dfan.com/" id="901">
+        <title>2DFan</title>
+      </bookmark>
+      <bookmark href="https://www.gamer520.com/" id="906">
+        <title>Switch520</title>
+      </bookmark>
+      <bookmark href="https://www.flysheep6.com/" id="907">
+        <title>flysheep资源避难所</title>
+      </bookmark>
+      <bookmark href="https://dodi-repacks.site/" id="908">
+        <title>DODI Repacks</title>
+      </bookmark>
+      <bookmark href="https://steamunlocked.net/" id="909">
+        <title>STEAMUNLOCKED » Free Steam Games Pre-installed for PC</title>
+      </bookmark>
+      <bookmark href="https://igg-games.com/" id="910">
+        <title>IGGGAMES » Free Download PC Games - Direct Links - Torrent</title>
+      </bookmark>
+      <bookmark href="https://supermarioplay.com/cn" id="944">
+        <title>免费在线玩原版 SuperMario Bros 游戏</title>
+      </bookmark>
+      <bookmark href="https://www.yikm.net/" id="945">
+        <title>小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://api.iyuu.cn/ptgen/index.html" id="100">
+      <title>PT Gen 简介查询生成工具 | 豆瓣 IMDb Bangumi Steam Epic Indienova</title>
+    </bookmark>
+    <bookmark href="https://archive.org/" id="486">
+      <title>Internet Archive: Digital Library of Free &amp; Borrowable Books, Movies, Music &amp; Wayback Machine</title>
+    </bookmark>
+    <bookmark href="https://pirate-bays.net/torrent-search" id="487">
+      <title>Pirate Bay - Download movies, music, games and software!</title>
+    </bookmark>
+    <bookmark href="https://rutracker.org/forum/index.php" id="488">
+      <title>RuTracker.org</title>
+    </bookmark>
+    <bookmark href="https://1337x.to/home/" id="876">
+      <title>Download verified torrents: movies, music, games, software | 1337x</title>
+    </bookmark>
+    <bookmark href="https://www.syacg.top/" id="924">
+      <title>深月ACG - 专注于ACG圈子知识分享与资料交流</title>
+    </bookmark>
+    <bookmark href="https://ghacg.com/" id="925">
+      <title>光辉ACG</title>
+    </bookmark>
+  </folder>
+  <folder id="27">
+    <title>编程</title>
+    <folder id="101">
+      <title>Fakegpt</title>
+      <bookmark href="https://status.fakeopen.com/" id="254">
+        <title>FAKEOPEN 相关服务状态</title>
+      </bookmark>
+      <bookmark href="https://zhile.io/" id="489">
+        <title>知了</title>
+      </bookmark>
+      <bookmark href="https://chat.openai.com/chat" id="490">
+        <title>ChatGPT</title>
+      </bookmark>
+      <bookmark href="https://claude.ai/chats" id="491">
+        <title>克洛德</title>
+      </bookmark>
+      <bookmark href="https://gemini.google.com/?pli=1" id="849">
+        <title>gemini</title>
+      </bookmark>
+      <bookmark href="https://groq.com/#updating" id="850">
+        <title>Groq</title>
+      </bookmark>
+      <bookmark href="https://copilot.3211000.xyz/#/settings" id="860">
+        <title>NextChat</title>
+      </bookmark>
+    </folder>
+    <folder id="613">
+      <title>操作系统/设置配置</title>
+      <folder id="734">
+        <title>安卓</title>
+        <bookmark href="https://blog.csdn.net/amlinsan/article/details/121038991" id="752">
+          <title>MTK Android 9.0(Android P) + kernel-4.9 默认关闭DM Verity 和secure boot 解决无法adb remount的问题_amlinsan的博客-CSDN博客</title>
+        </bookmark>
+        <bookmark href="https://blog.csdn.net/qq_22370409/article/details/104940127" id="753">
+          <title>MTK平台 Sensor Hub配置(以stk3x3x光感为例)(Android 9.0)_Healer_S的博客-CSDN博客_sensorhub</title>
+        </bookmark>
+      </folder>
+      <folder id="735">
+        <title>路由/NAS/OPENWRT</title>
+        <bookmark href="https://www.right.com.cn/forum/forum.php?mod=viewthread&amp;tid=4023907&amp;extra=page%3D1%26filter%3Dtypeid%26typeid%3D43" id="754">
+          <title>红米/小米AC2100刷入r3g breed以及恢复官方boot详细教程（更新查坏块方法、pb-boot）-小米无线路由器以及小米无线相关的设备-恩山无线论坛 - Powered by Discuz!</title>
+        </bookmark>
+        <bookmark href="https://zhuanlan.zhihu.com/p/613565329?utm_id=0" id="755">
+          <title>OpenClash+SmartDNS在旁路由场景下的配置 - 知乎</title>
+        </bookmark>
+        <bookmark href="https://zhuanlan.zhihu.com/p/598025902" id="756">
+          <title>ikuai上最简单的远程桌面 - 知乎</title>
+        </bookmark>
+        <bookmark href="https://fw.koolcenter.com/iStoreOS/r66s/" id="757">
+          <title>KoolCenter 固件下载服务器</title>
+        </bookmark>
+        <bookmark href="https://op.supes.top/" id="758">
+          <title>Openwrt Download Server</title>
+        </bookmark>
+        <bookmark href="https://www.emuelec.net/1752.html" id="759">
+          <title>天邑_TY1208-Z_S905M-B刷入觅时光游戏系统_EmuELEC主题网</title>
+        </bookmark>
+        <bookmark href="https://www.daphile.com/" id="760">
+          <title>Daphile – Digital Music Convenience for Audiophiles</title>
+        </bookmark>
+        <bookmark href="https://firmware-selector.immortalwrt.org/?version=23.05.1&amp;target=mediatek%2Ffilogic&amp;id=xiaomi_redmi-router-ax6000" id="761">
+          <title>ImmortalWrt Firmware Selector</title>
+        </bookmark>
+        <bookmark href="https://cmi.hanwckf.top/p/mt798x-uboot-usage/#%E7%BA%A2%E7%B1%B3ax6000%E5%A4%9A%E7%A7%8D%E5%88%86%E5%8C%BA%E5%B8%83%E5%B1%80%E5%9B%BA%E4%BB%B6%E5%85%BC%E5%AE%B9%E6%80%A7" id="762">
+          <title>mt798x uboot 功能介绍</title>
+        </bookmark>
+        <bookmark href="https://openwrt.org/toh/xiaomi/redmi_ax6000#installation" id="763">
+          <title>[OpenWrt Wiki] Xiaomi Redmi AX6000</title>
+        </bookmark>
+        <bookmark href="https://miwifi.dev/ssh" id="764">
+          <title>Xiaomi Router Developer Guide &amp; Tools</title>
+        </bookmark>
+        <bookmark href="https://www.right.com.cn/forum/thread-8253125-1-3.html" id="765">
+          <title>【保姆级教程】红米AX6000永久获取SSH权限（Redmi AX6000）-小米无线路由器以及小米无线相关的设备-恩山无线论坛</title>
+        </bookmark>
+        <bookmark href="https://suburl.v1.mk/" id="960">
+          <title>在线订阅转换工具</title>
+        </bookmark>
+      </folder>
+      <folder id="736">
+        <title>上网</title>
+        <bookmark href="https://sub.v1.mk/" id="766">
+          <title>在线订阅转换工具</title>
+        </bookmark>
+        <bookmark href="https://acl4ssr-sub.github.io/" id="767">
+          <title>ACL4SSR 在线订阅转换</title>
+        </bookmark>
+        <bookmark href="https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7" id="768">
+          <title>ss免费账号 · Alvin9999/new-pac Wiki</title>
+        </bookmark>
+        <bookmark href="https://sub.bocchi.site/" id="769">
+          <title>Subconverter Web</title>
+        </bookmark>
+        <bookmark href="https://bocchi.ooo/" id="770">
+          <title>Bocchi</title>
+        </bookmark>
+        <bookmark href="https://sqrx.com/" id="851">
+          <title>SquareX: Be Fearless Online</title>
+        </bookmark>
+        <bookmark href="https://xn--wtq35pfyd55o.com/#/login" id="843">
+          <title>便宜机场</title>
+        </bookmark>
+        <bookmark href="https://proxyium.com/zh-CN/" id="830">
+          <title>免费网络代理 - 快速和匿名浏览</title>
+        </bookmark>
+        <bookmark href="https://okgg.top/auth/register" id="926">
+          <title>okgg.top</title>
+        </bookmark>
+      </folder>
+      <folder id="737">
+        <title>Apple</title>
+        <bookmark href="https://zhuanlan.zhihu.com/p/266196593" id="771">
+          <title>Ryzen黑苹果の逆袭-----B550 Opencore黑苹果安装手册 - 知乎</title>
+        </bookmark>
+        <bookmark href="https://forum.amd-osx.com/threads/proart-b550-creator-tb4-whos-done-a-build.1894/#post-11279" id="772">
+          <title>ProArt B550-CREATOR (TB4) 谁做过构建？ | AMD OS X - 通过 AMD 创新为您的 Mac 赋能。</title>
+        </bookmark>
+        <bookmark href="https://openintelwireless.github.io/itlwm/Compat.html#dvm-iwn" id="773">
+          <title>Compatibility | OpenIntelWireless</title>
+        </bookmark>
+        <bookmark href="https://www.mfpud.com/" id="774">
+          <title>黑苹果动力-黑苹果系统下载,黑苹果安装教程,黑苹果EFI引导下载,完美黑苹果配置</title>
+        </bookmark>
+        <bookmark href="https://apple.sqlsec.com/" id="775">
+          <title>主页 - 国光的黑苹果安装教程：手把手教你配置 OpenCore</title>
+        </bookmark>
+        <bookmark href="https://utgd.net/article/10042" id="776">
+          <title>征服 macOS 快捷键（一）——快捷键之王 - #UNTAG</title>
+        </bookmark>
+        <bookmark href="https://chefkissinc.github.io/" id="902">
+          <title>Home | Noot</title>
+        </bookmark>
+        <bookmark href="https://www.tonymacx86.com/forums/golden-builds.87/" id="957">
+          <title>Golden Builds | tonymacx86.com</title>
+        </bookmark>
+        <bookmark href="https://github.com/JeoJay127/RapidEFI-Tool" id="964">
+          <title>GitHub - JeoJay127/RapidEFI-Tool: An excellent one-click EFI configuration tool based on OpenCore</title>
+        </bookmark>
+      </folder>
+      <folder id="738">
+        <title>linux</title>
+        <folder id="782">
+          <title>WSL</title>
+          <bookmark href="https://blog.csdn.net/m0_46161993/article/details/109062992" id="797">
+            <title>WSL 2(Ubuntu18.04)编译Linux内核(5.7.9)并替换掉WSL 2原有内核_scripts/kconfig/makefile:73: recipe for target &apos;sy_D-A-X的博客-CSDN博客</title>
+          </bookmark>
+          <bookmark href="https://blog.csdn.net/weixin_43408232/article/details/129960452" id="798">
+            <title>WSL2编译内核并更改替换内核版本_wsl更换内核_Walden-2020的博客-CSDN博客</title>
+          </bookmark>
+          <bookmark href="https://community.clearlinux.org/t/tutorial-clearlinux-on-wsl2/1835" id="799">
+            <title>[Tutorial] Clearlinux on WSL2 - News and Announcements / Tutorials and Guides - Clear Linux OS Forum</title>
+          </bookmark>
+          <bookmark href="https://github.com/clearlinux/clear-linux-documentation/issues/470" id="800">
+            <title>Document the setup of proxy. · Issue #470 · clearlinux/clear-linux-documentation</title>
+          </bookmark>
+          <bookmark href="https://askubuntu.com/questions/1401830/wsl-not-working-after-update-from-microsoft-store" id="801">
+            <title>20.04 - WSL not working after update from Microsoft store - Ask Ubuntu</title>
+          </bookmark>
+          <bookmark href="https://blog.nillsf.com/index.php/2020/06/29/how-to-automatically-start-the-docker-daemon-on-wsl2/" id="802">
+            <title>如何在 WSL2 上自动启动 Docker 守护进程 – NillsF 博客</title>
+          </bookmark>
+          <bookmark href="https://solidspoon.xyz/2021/02/17/%E9%85%8D%E7%BD%AEWSL2%E4%BD%BF%E7%94%A8Windows%E4%BB%A3%E7%90%86%E4%B8%8A%E7%BD%91/" id="803">
+            <title>配置 WSL2 使用 Windows 代理上网 - Hide</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://www.bilibili.com/read/cv24037238?jump_opus=1" id="777">
+          <title>手机刷入NixOs，纵享丝滑 - 哔哩哔哩</title>
+        </bookmark>
+        <bookmark href="https://mobile.nixos.org/devices/xiaomi-begonia.html" id="778">
+          <title>Xiaomi Redmi Note 8 Pro — Mobile NixOS</title>
+        </bookmark>
+        <bookmark href="https://zhuanlan.zhihu.com/p/617120247" id="779">
+          <title>NixOS 系列 #4：安装 NixOS 后要做的事 | Linux 中国 - 知乎</title>
+        </bookmark>
+        <bookmark href="http://docs.slackware.com/slackware:install" id="780">
+          <title>slackware:install - SlackDocs --- slackware:install - SlackDocs</title>
+        </bookmark>
+        <bookmark href="https://tieba.baidu.com/f?kz=4099413325&amp;mo_device=1&amp;ssid=0&amp;from=1012852q&amp;uid=0&amp;pu=usm@1,sz@224_220,ta@iphone___11_11.11&amp;bd_page_type=1&amp;baiduid=079802FD2160D92EDBD9C08A367166AA&amp;tj=www_normal_7_0_10_%E5%B0%8F%E7%99%BD%E6%B1%82%E5%8A%A9%E3%80%82%E3%80%82%E3%80%82arch%E5%A6%82%E4%BD%95%E8%87%AA%E5%8A%A8%E6%8C%82%E8%BD%BD%EF%BC%88%E8%AF%86%E5%88%AB%EF%BC%89NTFS%E5%88%86%E5%8C%BA%E5%92%8C%E5%8F%AF%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E3%80%90archlinux%E5%90%A7%E3%80%91_%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7&amp;red_tag=2236965504" id="781">
+          <title>小白求助。。。arch如何自动挂载（识别）NTFS分区和可移动设备【archlinux吧】_百度贴吧</title>
+        </bookmark>
+        <bookmark href="https://wiki.archlinux.org/title/Installation_guide_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)" id="783">
+          <title>Installation guide (简体中文) - ArchWiki</title>
+        </bookmark>
+        <bookmark href="https://wiki.archlinux.org/title/General_recommendations_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%94%A8%E6%88%B7%E7%9A%84%E6%8E%A8%E8%8D%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88" id="784">
+          <title>General recommendations (简体中文) - ArchWiki</title>
+        </bookmark>
+        <bookmark href="https://mp.weixin.qq.com/s/ZralWEfG2WJfZ-G-x9biow" id="785">
+          <title>看完这篇你一定能掌握Linux（非广告）</title>
+        </bookmark>
+      </folder>
+      <folder id="739">
+        <title>Windows</title>
+        <bookmark href="https://store.rg-adguard.net/" id="786">
+          <title>Microsoft Store - Generation Project (v1.2) [by @rgadguard &amp; mkuba50]</title>
+        </bookmark>
+        <bookmark href="https://jingyan.baidu.com/article/37bce2be35eee95102f3a2c9.html" id="787">
+          <title>win10 LTSC版如何安装应用商店Microsoft Store-百度经验</title>
+        </bookmark>
+        <bookmark href="https://www.guidgenerator.com/online-guid-generator.aspx" id="788">
+          <title>Free Online GUID Generator</title>
+        </bookmark>
+        <bookmark href="https://www.catalog.update.microsoft.com/home.aspx" id="789">
+          <title>Microsoft Update Catalog</title>
+        </bookmark>
+        <bookmark href="https://bbs.pcbeta.com/viewthread-1913311-2-1.html" id="790">
+          <title>令PowerShell 7取代系统自带的PowerShell 5.1-远景论坛-微软极客社区</title>
+        </bookmark>
+        <bookmark href="https://mindows.cn/" id="791">
+          <title>Mindows工具箱</title>
+        </bookmark>
+        <bookmark href="https://tb.rg-adguard.net/public.php?lang=zh-CN" id="792">
+          <title>TechBench by WZT (v4.1.1)</title>
+        </bookmark>
+        <bookmark href="https://www.uupdump.cn/" id="793">
+          <title>https://www.uupdump.cn</title>
+        </bookmark>
+        <bookmark href="https://bbs.pcbeta.com/viewthread-1897941-1-1.html" id="794">
+          <title>【技术实战】在ReFS分区中安装并启动Windows系统-ReFS,UEFI,Windows,Server 2022,Windows To Go-远景论坛-微软极客社区</title>
+        </bookmark>
+        <bookmark href="https://hikaricalyx.com/hikari-pe-sc/" id="795">
+          <title>Hikari PE SC Changelog (Simplified Chinese) – Hikari Calyx Tech</title>
+        </bookmark>
+        <bookmark href="https://support.microsoft.com/zh-cn/office/%e7%94%a8%e4%ba%8e-outlook-%e7%9a%84-pop-%e5%92%8c-imap-%e7%94%b5%e5%ad%90%e9%82%ae%e4%bb%b6%e8%ae%be%e7%bd%ae-8361e398-8af4-4e97-b147-6c6c4ac95353?ui=zh-cn&amp;rs=zh-cn&amp;ad=cn" id="796">
+          <title>用于 Outlook 的 POP 和 IMAP 电子邮件设置 - Office 支持</title>
+        </bookmark>
+        <bookmark href="https://learn.microsoft.com/zh-cn/sysinternals/downloads/" id="861">
+          <title>Sysinternals 实用工具 - Sysinternals | Microsoft Learn</title>
+        </bookmark>
+        <bookmark href="https://clonezilla.nchc.org.tw/intro/" id="888">
+          <title>Clonezilla - 簡介</title>
+        </bookmark>
+        <bookmark href="https://uupdump.net/" id="969">
+          <title>UUP dump</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://docs.microsoft.com/zh-cn/windows/wsl/install" id="740">
+        <title>安装 WSL | Microsoft Docs</title>
+      </bookmark>
+      <bookmark href="https://mirrors.cernet.edu.cn/list" id="741">
+        <title>校园网联合镜像站</title>
+      </bookmark>
+      <bookmark href="https://blog.csdn.net/robinfoxnan/article/details/125682167" id="742">
+        <title>docker镜像之带vnc的ubuntu_docker vnc_飞鸟真人的博客-CSDN博客</title>
+      </bookmark>
+      <bookmark href="http://mirrors.ustc.edu.cn/help/msys2.html" id="743">
+        <title>MSYS2 源使用帮助 — USTC Mirror Help 文档</title>
+      </bookmark>
+      <bookmark href="https://chimeraos.org/" id="954">
+        <title>ChimeraOS</title>
+      </bookmark>
+    </folder>
+    <folder id="604">
+      <title>服务器</title>
+      <bookmark href="https://my.vultr.com/subs/?SUBID=32389551" id="653">
+        <title>Manage 66.42.109.77 - Vultr.com</title>
+      </bookmark>
+      <bookmark href="https://console.cloud.tencent.com/lighthouse/instance/detail?rid=1&amp;id=lhins-7sejsqtl" id="654">
+        <title>服务器 - 轻量应用服务器 - 控制台</title>
+      </bookmark>
+      <bookmark href="https://shxincn.com/cart" id="852">
+        <title>购物车 | 鑫诚数据</title>
+      </bookmark>
+    </folder>
+    <folder id="605">
+      <title>嵌入式/ARM</title>
+      <bookmark href="https://studio.keil.arm.com/" id="655">
+        <title>Keil Studio</title>
+      </bookmark>
+      <bookmark href="https://godbolt.org/" id="656">
+        <title>Compiler Explorer</title>
+      </bookmark>
+    </folder>
+    <folder id="606">
+      <title>知乎收藏</title>
+      <bookmark href="https://www.zhihu.com/question/438708854" id="657">
+        <title>你读过最冷门，但「含金量极高」的书是什么？ - 知乎</title>
+      </bookmark>
+      <bookmark href="https://www.zhihu.com/question/469693594" id="658">
+        <title>(2 条消息) 有没有一本从电路开始讲然后汇编再到C语言的书？ - 知乎</title>
+      </bookmark>
+      <bookmark href="https://www.zhihu.com/question/21376384" id="659">
+        <title>(1 封私信) 你读过的最好的 C++ 开源代码是什么？ - 知乎</title>
+      </bookmark>
+      <bookmark href="https://www.zhihu.com/question/433183204" id="660">
+        <title>为什么看似简陋的vim在熟练的人手中如此的神乎其技？ - 知乎</title>
+      </bookmark>
+      <bookmark href="https://zhuanlan.zhihu.com/p/264346586?hmsr=toutiao.io&amp;utm_medium=toutiao.io&amp;utm_source=toutiao.io" id="661">
+        <title>一篇教会你写90%的shell脚本 - 知乎</title>
+      </bookmark>
+      <bookmark href="https://zhuanlan.zhihu.com/p/46973701" id="662">
+        <title>Linux 让终端走代理的几种方法 - 知乎</title>
+      </bookmark>
+      <bookmark href="https://zhuanlan.zhihu.com/p/349271041?utm_campaign=rss&amp;utm_medium=rss&amp;utm_source=rss&amp;utm_content=title" id="663">
+        <title>Vim2021：超轻量级代码补全系统 - 知乎</title>
+      </bookmark>
+      <bookmark href="https://zhuanlan.zhihu.com/p/28705206" id="664">
+        <title>程序员你为什么这么累？ - 知乎</title>
+      </bookmark>
+    </folder>
+    <folder id="607">
+      <title>Github收藏</title>
+      <bookmark href="https://github.com/fengdu78/deeplearning_ai_books" id="665">
+        <title>fengdu78/deeplearning_ai_books: deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）</title>
+      </bookmark>
+      <bookmark href="https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes" id="666">
+        <title>fengdu78/Coursera-ML-AndrewNg-Notes: 吴恩达老师的机器学习课程个人笔记</title>
+      </bookmark>
+      <bookmark href="https://github.com/NathanUA/U-2-Net" id="667">
+        <title>NathanUA/U-2-Net: The code for our newly accepted paper in Pattern Recognition 2020: &quot;U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.&quot;</title>
+      </bookmark>
+      <bookmark href="https://github.com/neolee/pilot" id="668">
+        <title>neolee/pilot: 进入编程世界的第一课</title>
+      </bookmark>
+      <bookmark href="https://github.com/jwasham/coding-interview-university" id="669">
+        <title>jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.</title>
+      </bookmark>
+      <bookmark href="https://svnbucket.com/projects" id="670">
+        <title>注册 - SVNBucket</title>
+      </bookmark>
+      <bookmark href="https://github.com/Ftindy/IPTV-URL" id="853">
+        <title>Ftindy/IPTV-URL: IPTV Remote Sub-Url</title>
+      </bookmark>
+      <bookmark href="https://rahuldkjain.github.io/gh-profile-readme-generator/" id="862">
+        <title>GitHub Profile Readme Generator | GitHub Profile Readme Generator</title>
+      </bookmark>
+      <bookmark href="https://github-profile-summary-cards.vercel.app/demo.html" id="863">
+        <title>GitHub Profile Summary Cards</title>
+      </bookmark>
+      <bookmark href="https://dev.yesmore.cc/articles/github-tools" id="864">
+        <title>分享一些GitHub相关的实用工具 | yesmore</title>
+      </bookmark>
+    </folder>
+    <folder id="28">
+      <title>学习</title>
+      <folder id="102">
+        <title>typing</title>
+        <bookmark href="https://www.typelit.io/" id="257">
+          <title>Practice typing by retyping ENTIRE classic novels — TypeLit.io</title>
+        </bookmark>
+        <bookmark href="https://sp.linci.co/" id="258">
+          <title>双拼入门</title>
+        </bookmark>
+        <bookmark href="https://barneyzhao.gitee.io/typing-cn/#/" id="259">
+          <title>typing-cn</title>
+        </bookmark>
+        <bookmark href="https://qwerty.kaiyi.cool/" id="260">
+          <title>Qwerty Learner</title>
+        </bookmark>
+        <bookmark href="https://www.52dazi.cn/" id="261">
+          <title>我爱打字网</title>
+        </bookmark>
+        <bookmark href="https://www.keybr.com/" id="262">
+          <title>Typing Practice</title>
+        </bookmark>
+        <bookmark href="https://www.typing.academy/" id="263">
+          <title>TypingAcademy: Learn touch typing with our free typing practice</title>
+        </bookmark>
+        <bookmark href="https://hangul.cool/" id="264">
+          <title>Hangul.cool</title>
+        </bookmark>
+        <bookmark href="https://en.morekorea.net/article.php?no=2&amp;page=6" id="265">
+          <title>Hangul Consonant Typing Practice for PC - Hangul Typing Practice for PC</title>
+        </bookmark>
+        <bookmark href="https://api.ihint.me/shuang/" id="266">
+          <title>双拼练习 @ BlueSky</title>
+        </bookmark>
+        <bookmark href="https://dazidazi.com/" id="267">
+          <title>dazidazi-在线打字练习网站-提高打字速度-打字测试-标准指法</title>
+        </bookmark>
+      </folder>
+      <folder id="103">
+        <title>wordle</title>
+        <bookmark href="https://app.nestattacked.com/regdict/" id="268">
+          <title>nestattacked | regdict</title>
+        </bookmark>
+        <bookmark href="https://www.bestwordlist.com/indexwordswith.htm" id="269">
+          <title>Word lists containing one or many letters</title>
+        </bookmark>
+        <bookmark href="https://worldle.teuteuf.fr/" id="270">
+          <title>Worldle</title>
+        </bookmark>
+        <bookmark href="https://cy.surprising.studio/" id="546">
+          <title>词影</title>
+        </bookmark>
+        <bookmark href="https://handle.antfu.me/" id="547">
+          <title>汉兜 - 汉字 Wordle</title>
+        </bookmark>
+        <bookmark href="http://www.hydcd.com/" id="548">
+          <title>汉语大辞典_辞海_新华字典电子版在线查询_词典大全 - 汉辞网</title>
+        </bookmark>
+        <bookmark href="https://www.zdic.net/" id="549">
+          <title>漢典</title>
+        </bookmark>
+        <bookmark href="https://allanchain.github.io/chinese-wordle/" id="550">
+          <title>拼成语</title>
+        </bookmark>
+        <bookmark href="https://bryony.dev/chengyu/chengyu.html" id="551">
+          <title>bryony.dev | 猜成语 - Chengyu guessing game</title>
+        </bookmark>
+        <bookmark href="https://cheeaun.github.io/chengyu-wordle/" id="552">
+          <title>Chengyu Wordle</title>
+        </bookmark>
+        <bookmark href="https://edjefferson.com/letterle/" id="553">
+          <title>Letterle</title>
+        </bookmark>
+      </folder>
+      <folder id="608">
+        <title>课程/MOOC网站</title>
+        <bookmark href="http://jwc.dgut.edu.cn/" id="671">
+          <title>东莞理工学院首页</title>
+        </bookmark>
+        <bookmark href="http://www.ucdrs.superlib.net/" id="672">
+          <title>全国图书馆参考咨询联盟</title>
+        </bookmark>
+        <bookmark href="https://tuostudy.com/" id="673">
+          <title>图欧学习资源库</title>
+        </bookmark>
+        <bookmark href="https://nav.yibook.org/" id="674">
+          <title>电子书常用网址导航 YIBOOK 易书</title>
+        </bookmark>
+        <bookmark href="https://xmsoushu.com/index.html#/" id="675">
+          <title>熊猫搜书_熊猫搜索_一站式读书学习导航站_聚合电子书及文档搜索_xmsoushu_xmsearch</title>
+        </bookmark>
+        <bookmark href="https://search.zhelper.net/?[{%22name%22:%22Ylibrary%22,%22url%22:%22https://api.ylibrary.org%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:true},{%22name%22:%22Ylibrary%22,%22url%22:%22https://superlib.ylibrary.org%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:true},{%22name%22:%22zlib.app%22,%22url%22:%22https://api.zlib.app%22,%22type%22:%22full%22,%22sensitive%22:false,%22detail%22:false,%22download%22:%22https://d.zlib.app/download/%22},{%22name%22:%22bookpan%22,%22url%22:%22https://api.bookpan.net%22,%22type%22:%22light%22,%22sensitive%22:false,%22detail%22:true}]" id="676">
+          <title>zhelper Search Page 搜索界面 🔍</title>
+        </bookmark>
+        <bookmark href="http://qzbltushu.ysepan.com/" id="965">
+          <title>金榜题名</title>
+        </bookmark>
+        <bookmark href="https://www.criwits.top/missing/" id="970">
+          <title>你缺失的那门计算机课 | 你缺失的那门计算机课</title>
+        </bookmark>
+      </folder>
+      <folder id="609">
+        <title>资料库/笔记</title>
+        <bookmark href="https://www.zotero.org/" id="677">
+          <title>Zotero | Your personal research assistant</title>
+        </bookmark>
+        <bookmark href="https://tagly.notion.site/" id="678">
+          <title>Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</title>
+        </bookmark>
+        <bookmark href="https://joplinapp.org/" id="866">
+          <title>Joplin</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://bdc.youzack.com/Recitation/Home" id="554">
+        <title>- YouZack背单词</title>
+      </bookmark>
+      <bookmark href="http://www.dzkbw.com/" id="555">
+        <title>电子课本-电子课本网</title>
+      </bookmark>
+      <bookmark href="https://www.cnblogs.com/stronghorse/p/14967352.html" id="556">
+        <title>电子书工具资源_置顶帖汇总 - strnghrs - 博客园</title>
+      </bookmark>
+      <bookmark href="https://www.icourse163.org/learn/kaopei-1003299002?tid=1463128455#/learn/content?type=detail&amp;id=1240326767&amp;sm=1" id="557">
+        <title>高数期末冲刺-3小时突击高等数学/微积分·上【新版】_中国大学MOOC(慕课)</title>
+      </bookmark>
+      <bookmark href="https://zh.numberempire.com/" id="558">
+        <title>数字帝国 - 数学工具</title>
+      </bookmark>
+      <bookmark href="https://sci-hub.41610.org/sci-hub-telegram-bot" id="559">
+        <title>Sci-Hub Telegram Bot</title>
+      </bookmark>
+      <bookmark href="https://seths.blog/" id="560">
+        <title>Seth&apos;s Blog</title>
+      </bookmark>
+      <bookmark href="https://whereisscihub.now.sh/" id="561">
+        <title>Whereis Sci-Hub now—— Links</title>
+      </bookmark>
+      <bookmark href="https://bbs.99lb.net/" id="877">
+        <title>谷粉学术论坛-文献互助</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://fishc.com.cn/plugin.php?id=k_misign:sign" id="494">
+      <title>签到 - 鱼C论坛 - Powered by Discuz!</title>
+    </bookmark>
+    <bookmark href="https://www.luogu.com.cn/" id="495">
+      <title>首页 - 洛谷 | 计算机科学教育新生态</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/changxiangyangy/article/details/86718551" id="496">
+      <title>(1条消息) [数据库] 一文搞懂case when所有使用场景_慕容田雨的专栏-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.shiyanlou.com/questions/171567/" id="497">
+      <title>38 个 Java 教程和练手项目列表 - 实验楼</title>
+    </bookmark>
+    <bookmark href="https://developer.aliyun.com/mirror/?serviceType=mirror" id="498">
+      <title>阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区</title>
+    </bookmark>
+    <bookmark href="https://qcloud.originqc.com.cn/zh/documentShow?label=9603ddff-0810-4ec0-82ed-6ff5643303da&amp;openId=6130&amp;pageId=6145" id="499">
+      <title>本源量子云</title>
+    </bookmark>
+    <bookmark href="https://www.captainbed.net/" id="500">
+      <title>床长人工智能教程 - 床长人工智能教程</title>
+    </bookmark>
+    <bookmark href="http://www.myzaker.com/article/6209172a8e9f093d6a11c34e" id="501">
+      <title>大神开发 arXiv 全新 H5 版，一步告别公式排版错误，手机也能轻松看文献 -ZAKER新闻</title>
+    </bookmark>
+    <bookmark href="https://programmercarl.com/" id="502">
+      <title>代码随想录</title>
+    </bookmark>
+    <bookmark href="https://www.sigbus.info/compilerbook" id="503">
+      <title>低レイヤを知りたい人のためのCコンパイラ作成入門</title>
+    </bookmark>
+    <bookmark href="https://www.liaoxuefeng.com/wiki/1016959663602400/1017328655674400" id="504">
+      <title>高阶函数 - 廖雪峰的官方网站</title>
+    </bookmark>
+    <bookmark href="https://www.coursera.org/learn/machine-learning" id="505">
+      <title>机器学习 | Coursera</title>
+    </bookmark>
+    <bookmark href="https://www.yuque.com/liweiwei1419/algo/lps5uz" id="506">
+      <title>教程定位、留言板与投票 · 语雀</title>
+    </bookmark>
+    <bookmark href="https://www.luogu.org/space/show?uid=3" id="507">
+      <title>洛谷 的空间 - 洛谷 | 计算机科学教育新生态</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/hnust_xiehonghao/article/details/7951173" id="508">
+      <title>判断N 数码是否有解 牛人总结 归并排序_hnust_xiehonghao的专栏-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://mirrors.tuna.tsinghua.edu.cn/#" id="509">
+      <title>清华大学开源软件镜像站 | Tsinghua Open Source Mirror</title>
+    </bookmark>
+    <bookmark href="http://oj.ecustacm.cn/" id="510">
+      <title>首页 - New Online Judge</title>
+    </bookmark>
+    <bookmark href="https://mirrors.cloud.tencent.com/" id="511">
+      <title>腾讯软件源</title>
+    </bookmark>
+    <bookmark href="https://wantwords.net/" id="512">
+      <title>万词王 WantWords</title>
+    </bookmark>
+    <bookmark href="https://gitee.com/dgut-sai/css-training-course" id="513">
+      <title>网安学院_企业级软件开发_实训课程: 2019年网安学院企业级软件开发实训课程</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7016871226899431431#heading-26" id="514">
+      <title>有了这25个正则表达式，代码效率提高80% - 掘金</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/m0_46181359/article/details/105291212" id="515">
+      <title>C Primer Plus 第六版(中文版)第五章(完美修订版)编程练习答案_MZZDX的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/liaocheng/p/9144317.html" id="516">
+      <title>c#串口编程（转） - 廖先生 - 博客园</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/wangweixaut061/article/details/6549768" id="517">
+      <title>C语言复杂声明解析_wangweixaut061的专栏-CSDN博客_c语言复杂声明</title>
+    </bookmark>
+    <bookmark href="https://bell-sw.com/pages/downloads/#/java-17-lts%20/%20current" id="518">
+      <title>Download OpenJDK builds of Liberica JDK, Java 8, 11, 17, 19 | BellSoft Java</title>
+    </bookmark>
+    <bookmark href="https://bell-sw.com/" id="519">
+      <title>Java Download OpenJDK Liberica; JetBrains and BellSoft; Premium 24x7 Java Support | BellSoft - Java Platform &amp; Applications Experts</title>
+    </bookmark>
+    <bookmark href="https://www.injdk.cn/" id="520">
+      <title>Java I tell you-爪哇我话你知</title>
+    </bookmark>
+    <bookmark href="https://www.imooc.com/article/321451" id="521">
+      <title>Java版流媒体编解码和图像处理(JavaCPP+FFmpeg)_慕课手记</title>
+    </bookmark>
+    <bookmark href="https://jdk.java.net/" id="522">
+      <title>JDK Builds from Oracle</title>
+    </bookmark>
+    <bookmark href="https://3.jetbra.in/" id="523">
+      <title>JETBRA.IN CHECKER | IPFS</title>
+    </bookmark>
+    <bookmark href="https://blog4jimmy.com/" id="524">
+      <title>Jimmy&apos;s Blog</title>
+    </bookmark>
+    <bookmark href="https://www.yuque.com/longyuye/lmgcwy/nhnwrz" id="525">
+      <title>NovelAI关键词记录2022/10/10</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/haima1998/article/details/73441515" id="526">
+      <title>opencv形状识别学习总结_人工智能_haima1998的专栏-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/bcbobo21cn/article/details/50904209" id="527">
+      <title>opencv形状识别学习总结_bcbobo21cn的专栏-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://fossil-scm.org/home/doc/tip/www/theory1.wiki" id="528">
+      <title>Fossil: Thoughts On The Design Of The Fossil DVCS</title>
+    </bookmark>
+    <bookmark href="https://jneem.github.io/merging/" id="529">
+      <title>Pijul_VersionControl_Part 1: Merging and patches | A new version</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_23141851/article/details/81436795" id="530">
+      <title>pip conda 国内镜像源 添加与删除_xyp_8023的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://pintia.cn/" id="531">
+      <title>PTA | 程序设计类实验辅助教学平台</title>
+    </bookmark>
+    <bookmark href="https://www.runoob.com/python3/python3-iterator-generator.html" id="532">
+      <title>Python3 迭代器与生成器 | 菜鸟教程</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/homewm/article/details/80204471" id="533">
+      <title>python删除txt文件数据记录文件中某些行末尾的换行符“\n”_果冻先生的专栏-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://www.jb51.net/article/180301.htm" id="534">
+      <title>Python中的X[:,0]、X[:,1]、X[:,:,0]、X[:,:,1]、X[:,m:n]和X[:,:,m:n]_python_脚本之家</title>
+    </bookmark>
+    <bookmark href="https://www.yuque.com/umoubuton/ueupp5" id="535">
+      <title>So-VITS-SVC 4.1 整合包完全指南</title>
+    </bookmark>
+    <bookmark href="https://www.bootschool.net/ascii" id="536">
+      <title>springboot banner在线生成工具，制作下载banner.txt，修改替换banner.txt文字实现自定义，个性化启动banner-bootschool.net</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/nxf-rabbit75/p/10639833.html" id="537">
+      <title>Tensorflow检验GPU是否安装成功 及 使用GPU训练注意事项 - nxf_rabbit75 - 博客园</title>
+    </bookmark>
+    <bookmark href="http://thuocl.thunlp.org/#%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D" id="538">
+      <title>THUOCL：清华大学开放中文词库</title>
+    </bookmark>
+    <bookmark href="https://www.imooc.com/u/279399/courses?sort=publish" id="539">
+      <title>Tony的课程</title>
+    </bookmark>
+    <bookmark href="https://cloud-images.ubuntu.com/" id="540">
+      <title>Ubuntu Cloud Images - the official Ubuntu images for public clouds, Openstack, KVM and LXD</title>
+    </bookmark>
+    <bookmark href="https://mirrors.ustc.edu.cn/" id="541">
+      <title>USTC Open Source Software Mirror</title>
+    </bookmark>
+    <bookmark href="https://visualgo.net/zh" id="542">
+      <title>VisuAlgo - 数据结构和算法动态可视化 (Chinese)</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq321772514/article/details/90514538" id="543">
+      <title>VS2019配置opencv详细图文教程和测试代码_人工智能_木芽博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/tyKuGengty/article/details/120119820" id="544">
+      <title>VSCode 配置 C/C++：VSCode + Clang + Clangd + LLDB + CMake + Git_FeignClaims的博客-CSDN博客_vscode配置clang</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_43877139/article/details/100544065" id="545">
+      <title>win10完整Tensorflow-GPU环境搭建教程-附CUDA+cuDNN安装过程_XuXing的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://adoptium.net/zh-CN/temurin/releases/?version=8" id="817">
+      <title>Latest Releases | Adoptium</title>
+    </bookmark>
+    <bookmark href="https://course.rs/into-rust.html" id="818">
+      <title>进入 Rust 编程世界 - Rust语言圣经(Rust Course)</title>
+    </bookmark>
+    <bookmark href="https://vim-adventures.com/" id="819">
+      <title>Learn VIM while playing a game - VIM Adventures</title>
+    </bookmark>
+    <bookmark href="https://jetbra.noviceli.win/" id="820">
+      <title>Get keys</title>
+    </bookmark>
+    <bookmark href="https://bmwu.cloud/" id="821">
+      <title>Beimingwu</title>
+    </bookmark>
+    <bookmark href="https://tofree.zeabur.app/" id="854">
+      <title>Warp To Clash/Surge</title>
+    </bookmark>
+    <bookmark href="https://zh.m.wikipedia.org/wiki/UNO" id="865">
+      <title>UNO - 维基百科，自由的百科全书</title>
+    </bookmark>
+    <bookmark href="https://hosts.gitcdn.top/" id="889">
+      <title>Fetch Github Hosts</title>
+    </bookmark>
+    <bookmark href="https://scitools.com/features" id="893">
+      <title>Features | Understand by Scitools</title>
+    </bookmark>
+    <bookmark href="https://www.eaimty.com/" id="894">
+      <title>EAimTY&apos;s Blog</title>
+    </bookmark>
+    <bookmark href="https://meedamian.com/post/deuglifying-android-studio/" id="903">
+      <title>Making Android Studio pretty | Damian Mee | Blog</title>
+    </bookmark>
+    <bookmark href="https://skywalking.apache.org/" id="904">
+      <title>Apache SkyWalking</title>
+    </bookmark>
+    <bookmark href="https://www.cnblogs.com/milton/p/18049551" id="911">
+      <title>在嵌入式设备中用多项式快速计算三角函数和方根 - Milton - 博客园</title>
+    </bookmark>
+    <bookmark href="https://arduino.stackexchange.com/questions/19756/how-does-serial-communications-work-on-the-arduino" id="912">
+      <title>c++ - Arduino 上的串行通信是如何工作的？- Arduino Stack Exchange --- c++ - How does serial communications work on the Arduino? - Arduino Stack Exchange</title>
+    </bookmark>
+    <bookmark href="http://www.gammon.com.au/forum/?id=10894" id="913">
+      <title>Gammon Forum : Electronics : Microprocessors ：异步（串行）外设接口 - 用于 Arduino --- Gammon Forum : Electronics : Microprocessors : Async (Serial) peripheral interface - for Arduino</title>
+    </bookmark>
+    <bookmark href="https://www.rexegg.com/regex-quickstart.html" id="930">
+      <title>Regex Cheat Sheet</title>
+    </bookmark>
+    <bookmark href="https://hellogithub.com/" id="937">
+      <title>HelloGitHub</title>
+    </bookmark>
+    <bookmark href="https://drawdb.vercel.app/" id="938">
+      <title>drawDB | Online database diagram editor and SQL generator</title>
+    </bookmark>
+  </folder>
+  <folder id="34">
+    <title>安卓玩机资源</title>
+    <bookmark href="https://forum.xda-developers.com/t/custom-gapps-bitgapps-for-android.4012165/" id="215">
+      <title>[CUSTOM][GAPPS] BiTGApps for Android | XDA Forums</title>
+    </bookmark>
+    <bookmark href="https://developer.android.google.cn/studio/run/oem-usb?hl=zh-cn#Drivers" id="216">
+      <title>安装原始设备制造商 (OEM) USB 驱动程序  |  Android Studio  |  Android Developers</title>
+    </bookmark>
+    <bookmark href="https://firpe.cn/page-627" id="217">
+      <title>如何在手机上制作启动盘并进入PE？ – FirPE Project</title>
+    </bookmark>
+    <bookmark href="https://www.coolapk.com/apk/com.xayah.databackup" id="218">
+      <title>数据备份(com.xayah.databackup) - Beta-4.0.5 - 应用 - 酷安</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/weixin_45431191/article/details/124598762" id="219">
+      <title>小米浏览器书签导出_刘小渊-的博客-CSDN博客_小米浏览器书签导出</title>
+    </bookmark>
+    <bookmark href="https://www.apkmirror.com/" id="220">
+      <title>APKMirror - Free APK Downloads - Free and safe Android APK downloads</title>
+    </bookmark>
+    <bookmark href="https://www.celsoazevedo.com/files/android/google-camera/" id="221">
+      <title>Google Camera Ports Download</title>
+    </bookmark>
+    <bookmark href="https://rawapk.com/" id="222">
+      <title>Raw APK | Free .APK Direct Downloads for Android</title>
+    </bookmark>
+    <bookmark href="https://renegade-project.org/#/" id="223">
+      <title>Renegade Project</title>
+    </bookmark>
+    <bookmark href="https://wwi.lanzoup.com/b00qv3wra" id="224">
+      <title>UMSR补丁</title>
+    </bookmark>
+    <bookmark href="https://xiaomirom.com/" id="225">
+      <title>XiaomiROM.com - 小米 ROM 线刷包, 卡刷包的最新及历史版本下载</title>
+    </bookmark>
+    <bookmark href="https://wxdowmloads.cn/%E7%BA%A2%E7%B1%B3Note8Pro%E5%88%B7%E6%9C%BA%E8%B5%84%E6%BA%90/%E7%AC%AC%E4%B8%89%E6%96%B9ROM/VOS4.0" id="226">
+      <title>无心的下载站</title>
+    </bookmark>
+    <bookmark href="https://github.com/yujincheng08/BiliRoaming/wiki/%E5%85%AC%E5%85%B1%E8%A7%A3%E6%9E%90%E6%9C%8D%E5%8A%A1%E5%99%A8" id="227">
+      <title>公共解析服务器 · yujincheng08/BiliRoaming Wiki</title>
+    </bookmark>
+  </folder>
+  <folder id="29">
+    <title>工具网站</title>
+    <folder id="610">
+      <title>文件共享</title>
+      <bookmark href="https://t.gt.gs/" id="679">
+        <title>文件快递柜---免费的匿名口令分享文本文件</title>
+      </bookmark>
+      <bookmark href="https://airportal.cn/" id="680">
+        <title>AirPortal 空投快传</title>
+      </bookmark>
+      <bookmark href="http://iscute.cn/chfs" id="681">
+        <title>CuteHttpFileServer | iscute.cn</title>
+      </bookmark>
+      <bookmark href="https://wormhole.app/" id="682">
+        <title>Wormhole - 简单、私密的文件共享</title>
+      </bookmark>
+      <bookmark href="https://piping-ui.org/" id="683">
+        <title>Piping UI 文件共享</title>
+      </bookmark>
+      <bookmark href="https://pan.huang1111.cn/login" id="839">
+        <title>huang1111网盘</title>
+      </bookmark>
+      <bookmark href="https://musetransfer.com/" id="878">
+        <title>MuseTransfer｜文件传输 不限速 高品质</title>
+      </bookmark>
+    </folder>
+    <bookmark href="file:///D:/env/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AB%99.html" id="104">
+      <title>常用工具站</title>
+    </bookmark>
+    <bookmark href="https://rulite.1kbtool.com/" id="562">
+      <title>百度网盘秒传链接转存 Lite</title>
+    </bookmark>
+    <bookmark href="file:///D:/env/%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AB%99.html" id="563">
+      <title>常用工具站</title>
+    </bookmark>
+    <bookmark href="https://pandown.vercel.app/ctfile" id="564">
+      <title>城通网盘解析器</title>
+    </bookmark>
+    <bookmark href="http://guangdong.tianditu.gov.cn/map/index.html" id="565">
+      <title>电子地图</title>
+    </bookmark>
+    <bookmark href="https://limbopro.com/daohang/#" id="566">
+      <title>毒奶导航 - 毒奶博主的万能网址导航神器！</title>
+    </bookmark>
+    <bookmark href="https://map.bmcx.com/huangbenzhen__map/" id="567">
+      <title>黄坌镇地图 - 黄坌镇卫星地图 - 黄坌镇高清航拍地图 - 便民查询网地图</title>
+    </bookmark>
+    <bookmark href="https://www.nbwz.com/" id="568">
+      <title>牛逼网站 - 免费网站导航！</title>
+    </bookmark>
+    <bookmark href="http://m.ju1.cn/vip.html" id="569">
+      <title>图片转文字图片识别检测新广告法违禁词敏感词 - 句易网</title>
+    </bookmark>
+    <bookmark href="https://remote.vnisoft.top/" id="570">
+      <title>维念远控官方网站-基于Web技术的远程控制软件</title>
+    </bookmark>
+    <bookmark href="https://www.remove.bg/zh" id="571">
+      <title>消除图片中的背景 – remove.bg</title>
+    </bookmark>
+    <bookmark href="https://tool.chinaz.com/" id="572">
+      <title>站长工具 - 站长之家</title>
+    </bookmark>
+    <bookmark href="https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2" id="573">
+      <title>折纸飞机_Fold &apos;N Fly » Paper Airplane Folding Instructions</title>
+    </bookmark>
+    <bookmark href="https://kamiya.dev/chatgpt.html" id="574">
+      <title>众神之谷 - 魔法小镇</title>
+    </bookmark>
+    <bookmark href="https://harrynull.tech/bilibili/" id="575">
+      <title>Bilibili 屏蔽词分享平台</title>
+    </bookmark>
+    <bookmark href="https://www.desmos.com/calculator?lang=zh-CN" id="576">
+      <title>Desmos | 图形计算器</title>
+    </bookmark>
+    <bookmark href="https://inkscape.org/" id="577">
+      <title>Draw Freely | Inkscape</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_33212020/article/details/114482595" id="578">
+      <title>E5 调用API续订程序：Microsoft 365 E5 Renew Plus_SundayRX的博客-CSDN博客_e5续订</title>
+    </bookmark>
+    <bookmark href="https://developer.microsoft.com/zh-cn/microsoft-365/profile" id="579">
+      <title>E5 订阅查询</title>
+    </bookmark>
+    <bookmark href="https://e5.qyi.io/user/baseSetting" id="580">
+      <title>E5续订</title>
+    </bookmark>
+    <bookmark href="http://toolwa.com/github/" id="581">
+      <title>GitHub 加速下载 - 在线工具</title>
+    </bookmark>
+    <bookmark href="https://www.google.com/maps/@35.780287,104.1374349,4z" id="582">
+      <title>Google 地图</title>
+    </bookmark>
+    <bookmark href="https://earth.google.com/web/search/Anguilla/@13.08935751,0.65866354,-1089.01898641a,8575850.81981063d,35y,-0h,0t,0r/data=Cl8aNRIvCiUweDEwN2YzYjhhNTQzOGYzZWQ6MHg3YjBjYzMwZTM2Nzg2YjE1KgbliqDok6wYAiABIiYKJAnEuRKWo8I0QBHCuRKWo8I0wBkP2B6UGx9FQCGI__oVjyVOwA" id="583">
+      <title>Google Earth</title>
+    </bookmark>
+    <bookmark href="https://xiangjianan.github.io/lks/" id="584">
+      <title>LKs - 良心到难以置信的网站推荐</title>
+    </bookmark>
+    <bookmark href="https://lkssite.vip/" id="585">
+      <title>LKs - 良心到难以置信的网站推荐</title>
+    </bookmark>
+    <bookmark href="https://www.logoly.pro/#/" id="586">
+      <title>Logoly.Pro —— A creative Logo Generator</title>
+    </bookmark>
+    <bookmark href="https://milkdown.dev/#/zh-hans" id="587">
+      <title>Milkdown MarkDown在线编辑</title>
+    </bookmark>
+    <bookmark href="https://logi.im/script/permanently-keeping-an-office-e5-account.html" id="588">
+      <title>Office 365 E5 账号申请及永久续期教程 - LOGI</title>
+    </bookmark>
+    <bookmark href="https://oisd.nl/" id="589">
+      <title>oisd | domain blocklist</title>
+    </bookmark>
+    <bookmark href="https://mermaid.live/edit#pako:eNpVjk2Lg0AMhv9KyGkL9Q94WGh1t5fCFurN6SFo7AztfDBGpKj_fcd62c0pvM_zhkzY-JYxx-7px0ZTFKhK5SDNoS50NL1Y6m-QZZ_ziQWsd_ya4fhx8tBrH4Jx993mH1cJium8agyijXssGyre_R_HM5T1mYL4cPtLqtHP8FWbi07n_xMdObW-647yjrKGIhQU3wru0XK0ZNr0_rQmCkWzZYV5WlvuaHiKQuWWpNIg_vpyDeYSB97jEFoSLg3dI9ktXH4B_cJWqw" id="590">
+      <title>Online FlowChart &amp; Diagrams Editor - Mermaid Live Editor</title>
+    </bookmark>
+    <bookmark href="https://www.audiocheck.net/soundtests_headphones.php" id="591">
+      <title>The Ultimate Headphones Test</title>
+    </bookmark>
+    <bookmark href="https://www.testufo.com/frameskipping#horiz=15&amp;vert=8" id="592">
+      <title>UFO Test: Frame Skipping Checker</title>
+    </bookmark>
+    <bookmark href="https://wavedrom.com/" id="593">
+      <title>WaveDrom - Digital timing diagram everywhere</title>
+    </bookmark>
+    <bookmark href="https://trackerslist.com/#/zh" id="594">
+      <title>XIU2/TrackersListCollection</title>
+    </bookmark>
+    <bookmark href="https://app.astralapp.com/dashboard" id="831">
+      <title>Astral</title>
+    </bookmark>
+    <bookmark href="https://telegra.ph/%E8%8B%A5%E5%B9%B2%E8%BD%AF%E4%BB%B6%E8%AE%BE%E7%BD%AE-CordCloud-11-22" id="832">
+      <title>若干软件设置-CordCloud – Telegraph</title>
+    </bookmark>
+    <bookmark href="https://uutool.cn/" id="833">
+      <title>UU在线工具 - 便捷实用的工具集合站</title>
+    </bookmark>
+    <bookmark href="https://jqtmviyu.github.io/p/vscode_mono_font/" id="834">
+      <title>Vscode 等宽字体</title>
+    </bookmark>
+    <bookmark href="https://www.123pan.com/s/oYURVv-mvzav.html" id="840">
+      <title>系统镜像官方版下载丨最新版下载丨绿色版下载丨APP下载-123云盘</title>
+    </bookmark>
+    <bookmark href="https://bwh81.net/index.php" id="841">
+      <title>Mass VPS hosting on Enterprise equipment - BandwagonHost VPS</title>
+    </bookmark>
+    <bookmark href="https://yysw.acyun.tk/index.php#/register" id="842">
+      <title>acyun</title>
+    </bookmark>
+    <bookmark href="https://wenku.zhihupe.com/tool/index?url=https%3A%2F%2Fwenku.baidu.com%2Fndbusiness%2Fbrowse%2Fwenkuvipcashier%3FaggId%3Db9626404d838376baf1ffc4ffe4733687e21fc9a%26referDocId%3De99454b4b14e852458fb57a3%26cashier_code%3DP*_view2022_-L*FoldPage.unfold.mainLink-U*0.0-C*vip-DBC*3-SSR*1-CH*WK_VIEW-PUT*WK_VIEW-PHS*45-F*catalogMain_text_ernie_recall_v1%253Awk_recommend_main_graph_-E*undefined_tplNamexreader_refer-wenku.baidu.com_aggDoc_aggId_backendIsIntercept2_flowRate_default_%26_wkts_%3D1708425865519%26wkQuery%3D%25E6%25A1%2583%25E8%258A%25B1%25E6%25BA%2590%25E8%25AE%25B0%25E9%2587%258D%25E7%2582%25B9%25E5%25AD%2597%25E8%25AF%258D" id="855">
+      <title>智狐文库</title>
+    </bookmark>
+    <bookmark href="https://clarity.microsoft.com/" id="867">
+      <title>JBAMANMO - Clarity</title>
+    </bookmark>
+    <bookmark href="https://jbls.ide-soft.com/" id="879">
+      <title>Jetbrains License Key for all products</title>
+    </bookmark>
+    <bookmark href="https://fm.itxtech.org/#/about" id="880">
+      <title>FlashMaster - 关于</title>
+    </bookmark>
+    <bookmark href="https://majors.im/24copenhagen#" id="885">
+      <title>PGL Major Copenhagen 2024 Simulator</title>
+    </bookmark>
+    <bookmark href="https://prosettings.net/" id="886">
+      <title>ProSettings.net - The Best Settings and Setups in Esports</title>
+    </bookmark>
+    <bookmark href="https://lyrify.sipc.ink/" id="914">
+      <title>Lyrify Translator</title>
+    </bookmark>
+    <bookmark href="https://ezgif.com/" id="927">
+      <title>ezgif.com free online animated GIF editor</title>
+    </bookmark>
+    <bookmark href="https://regexr.com/" id="931">
+      <title>RegExr: Learn, Build, &amp; Test RegEx</title>
+    </bookmark>
+    <bookmark href="https://www.eloshapes.com/" id="939">
+      <title>EloShapes - Mouse Comparison Tools</title>
+    </bookmark>
+    <bookmark href="https://junlong.plus/ztool/jetbra" id="940">
+      <title>Generate License - Junlong+</title>
+    </bookmark>
+    <bookmark href="https://s.threatbook.com/" id="948">
+      <title>微步在线云沙箱</title>
+    </bookmark>
+    <bookmark href="https://www.virustotal.com/gui/home/upload" id="949">
+      <title>VirusTotal - Home</title>
+    </bookmark>
+    <bookmark href="https://frosting.ai/about" id="966">
+      <title>frosting.ai</title>
+    </bookmark>
+    <bookmark href="https://redis.tinycraft.cc/zh/" id="967">
+      <title>Tiny RDM | Redis桌面管理客户端</title>
+    </bookmark>
+  </folder>
+  <folder id="35">
+    <title>ip及网络资源</title>
+    <bookmark href="https://ipxx.pro/" id="228">
+      <title>查看我的 IP 地址 | 查询本机 IP 地址及归属地 | 查看 DNS 出口 IP | 测试 CDN 命中节点 | 云怡设计 | https://ipxx.pro</title>
+    </bookmark>
+    <bookmark href="https://fast.com/zh/cn" id="229">
+      <title>互联网速度测试 | Fast.com</title>
+    </bookmark>
+    <bookmark href="https://dnsdaquan.com/" id="230">
+      <title>全国DNS服务器IP地址大全 公共DNS大全 dns地址大全 dns大全</title>
+    </bookmark>
+    <bookmark href="http://test6.ustc.edu.cn/" id="231">
+      <title>中国科学技术大学测速网站</title>
+    </bookmark>
+    <bookmark href="https://browserleaks.com/" id="232">
+      <title>Browserleaks - Check your browser for privacy leaks</title>
+    </bookmark>
+    <bookmark href="https://speed.cloudflare.com/" id="233">
+      <title>Internet Speed Test - Measure Network Performance | Cloudflare</title>
+    </bookmark>
+    <bookmark href="https://whoer.net/zh#" id="234">
+      <title>ip地址测试</title>
+    </bookmark>
+    <bookmark href="http://www.test-ipv6.com/" id="235">
+      <title>IPv6 测试</title>
+    </bookmark>
+    <bookmark href="https://dns.icoa.cn/ipv6/" id="236">
+      <title>IPv6 DNS 免费公共服务器地址大全 Public IPv6 DNS Server - DNS.iCoA.CN</title>
+    </bookmark>
+    <bookmark href="https://tools.ipip.net/newping.php" id="237">
+      <title>Ping查询_专业的 IP 地址库_IPIP.NET</title>
+    </bookmark>
+    <bookmark href="https://scamalytics.com/" id="928">
+      <title>Scamalytics</title>
+    </bookmark>
+  </folder>
+  <folder id="36">
+    <title>GOV政府相关网站</title>
+    <bookmark href="https://map.tianditu.gov.cn/" id="238">
+      <title>国家地理信息公共服务平台_天地图_在线地图</title>
+    </bookmark>
+    <bookmark href="https://sipub.sz.gov.cn/hspms/#" id="239">
+      <title>深圳市社会保险基金管理局-个人网上服务</title>
+    </bookmark>
+    <bookmark href="https://eea.gd.gov.cn/index.html?eqid=a7e4899e000aa8100000000664992df7" id="868">
+      <title>广东省教育考试院</title>
+    </bookmark>
+  </folder>
+  <folder id="37">
+    <title>往后稍稍</title>
+    <folder id="240">
+      <title>duoshouzhidao</title>
+      <bookmark href="https://post.smzdm.com/p/a6lxp9eg/" id="414">
+        <title>家用完美的六盘位NAS：威联通TS-653D 体验评测！J4125处理器+PCIE万兆网卡！_NAS存储_什么值得买</title>
+      </bookmark>
+      <bookmark href="https://post.smzdm.com/p/aooz9xnr/" id="415">
+        <title>1688（阿里巴巴）撸好货 篇三十三：最全MUJI代工厂攻略！ 5大品类24个单品22家工厂名单揭秘！同品低至2折！_休闲食品_什么值得买</title>
+      </bookmark>
+      <bookmark href="https://post.smzdm.com/p/apx5z397/" id="416">
+        <title>1688（阿里巴巴）撸好货 篇五十：6家1688户外用品好店推荐！淘宝大店源头工厂！同品最低2折！快收藏吧！_帐篷_什么值得买</title>
+      </bookmark>
+      <bookmark href="https://post.smzdm.com/p/aenrw3gm/" id="417">
+        <title>1688（阿里巴巴）撸好货 篇五十三：6家1688基本款T恤店铺推荐！大牌代工、外贸原单！重磅T、阿美咔叽风、复古风全都找到啦！_男士T恤_什么值得买</title>
+      </bookmark>
+      <bookmark href="https://post.smzdm.com/p/a3d2ww2r/" id="418">
+        <title>入住2年的真实收纳分享——34件百元内神器，把家扩大一倍以上！_收纳用品_什么值得买</title>
+      </bookmark>
+      <bookmark href="https://post.smzdm.com/p/awkx6qv4/" id="419">
+        <title>侃侃而谈 篇八十七：7家值得收藏的运动袜子代工厂， 侃侃潮牌淘宝金皇冠店天猫店源头工厂店， 买袜子升级版_男袜_什么值得买</title>
+      </bookmark>
+      <bookmark href="https://post.smzdm.com/p/axl0rpn9/" id="420">
+        <title>超全图解开关插座位置，抄作业的来！_电气开关_什么值得买</title>
+      </bookmark>
+      <bookmark href="https://www.douban.com/group/topic/234449246/" id="421">
+        <title>深圳丨87m²“抠抠搜搜”的极简风</title>
+      </bookmark>
+      <bookmark href="https://www.zhihu.com/question/21938429" id="422">
+        <title>性价比最高的羽绒服有哪几款？ - 知乎</title>
+      </bookmark>
+      <bookmark href="https://www.zhihu.com/question/452510931" id="423">
+        <title>(1 封私信) 有什么推荐的国产好鞋吗？ - 知乎</title>
+      </bookmark>
+      <bookmark href="https://www.zfrontier.com/app/flow/2E5rGaxBJAw5" id="424">
+        <title>自制数字pad键盘，手搓，homemade - zFrontier 装备前线</title>
+      </bookmark>
+      <bookmark href="https://post.smzdm.com/p/akx9qq58/" id="425">
+        <title>近视镜框这样买zui省钱！7家平价眼镜品牌推荐，入手低至69元_框镜_什么值得买</title>
+      </bookmark>
+      <bookmark href="https://post.smzdm.com/p/az6por2r/" id="426">
+        <title>洗碗机 篇一：盯了一个月的洗碗机，整理出这些型号的功能对比，终于筛选出心仪的款_洗碗机_什么值得买</title>
+      </bookmark>
+      <bookmark href="http://global.gmarket.co.kr/item?goodscode=2353668858" id="427">
+        <title>Gmarket - [Leopold]FC900RBT/PD/Charcoal/Blue/Hangul</title>
+      </bookmark>
+      <bookmark href="https://www.zfrontier.com/app/flow/4KaPVapJRJL2" id="428">
+        <title>垃圾佬在zF杂谈篇——各种轴体的不准确资料 - zFrontier 装备前线</title>
+      </bookmark>
+      <bookmark href="https://www.zfrontier.com/app/flow/2q6P16Pm9aoX" id="429">
+        <title>[IC] 4398-现货2099套件 - zFrontier 装备前线</title>
+      </bookmark>
+      <bookmark href="https://sspai.com/post/76354" id="430">
+        <title>比二手更可靠，比全新价更低：值得关注的官翻渠道汇总 - 少数派</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://www.16personalities.com/ch/intj-%E4%BA%BA%E6%A0%BC" id="595">
+      <title>“建筑师” 人格 (INTJ) | 16Personalities</title>
+    </bookmark>
+    <bookmark href="https://tieba.baidu.com/p/5030769811" id="596">
+      <title>〖17-03-20〗请问第二层相邻两棱互换有公式吗？【魔方吧】_百度贴吧</title>
+    </bookmark>
+    <bookmark href="https://sspai.com/post/64028" id="597">
+      <title>关于衣服我们需要学习的：从洗涤、熨烫到收纳 - 少数派</title>
+    </bookmark>
+    <bookmark href="https://sspai.com/post/71054" id="598">
+      <title>巧用开源方案，零成本实现验证码短信转发 - 少数派</title>
+    </bookmark>
+    <bookmark href="http://www.mf100.org/base.htm" id="599">
+      <title>三阶魔方的入门玩法教程|魔方玩法|魔方视频教程|魔方公式图解|--想成为魔方高手就来魔方乐园吧</title>
+    </bookmark>
+    <bookmark href="https://sspai.com/post/73362" id="600">
+      <title>疫情封控两个月后，我对自己开始 24 小时的自我监控录像 - 少数派</title>
+    </bookmark>
+    <bookmark href="https://aijishu.com/u/iristang" id="601">
+      <title>Nuoeriris - 极术社区 - 连接开发者与智能计算生态</title>
+    </bookmark>
+  </folder>
+  <folder id="971">
+    <title>待办</title>
+    <bookmark href="https://sspai.com/post/88495" id="972">
+      <title>用Quicker设置Obsidian到哔哩哔哩（B站）视频的跳转、回链动作 - 少数派</title>
+    </bookmark>
+  </folder>
+  <folder id="38">
+    <title>个人资料管理</title>
+    <bookmark href="https://ulyc.github.io/2021/01/13/2021%E5%B9%B4-%E7%94%A8%E6%9B%B4%E7%8E%B0%E4%BB%A3%E7%9A%84%E6%96%B9%E6%B3%95%E4%BD%BF%E7%94%A8PGP-%E4%B8%8A/" id="241">
+      <title>2021年，用更现代的方法使用PGP（上） - C的博客 |UlyC</title>
+    </bookmark>
+    <bookmark href="https://editst.com/2022/canokey-guide/#%E5%9F%BA%E7%A1%80%E9%85%8D%E7%BD%AE" id="242">
+      <title>Canokey 指南：OTP，FIDO2，PGP 与 PIV | Editst Dream</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/qq_22816805/article/details/122294669" id="244">
+      <title>Canokey入门指南:F2A、OpenPGP、PIV_initcool的博客-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://docs.yubico.com/software/yubikey/tools/ykman/Using_the_ykman_CLI.html#windows" id="245">
+      <title>Using the YubiKey Manager CLI — YubiKey Manager (ykman) CLI and GUI Guide documentation</title>
+    </bookmark>
+    <bookmark href="https://www.wd-ljt.com/post/1024/897.html" id="246">
+      <title>Yubikey 5C NFC 探索之旅 - 问谛居</title>
+    </bookmark>
+    <bookmark href="http://www.taodudu.cc/news/show-6830890.html?action=onClick" id="856">
+      <title>Canokey Pigeon的初级玩法</title>
+    </bookmark>
+    <bookmark href="https://developers.yubico.com/yubioath-flutter/Releases/" id="857">
+      <title>Releases</title>
+    </bookmark>
+    <bookmark href="https://blog.goodboyboy.top/posts/1343614238.html#%E6%96%B0%E7%89%88" id="858">
+      <title>Canokey Pigeon的初级玩法 | GoodBoyboy &apos;s Blog｜惬意小屋-点滴记忆</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://answersbook.iwhy.dev/" id="890">
+    <title>答案之書線上</title>
+  </bookmark>
+  <bookmark href="https://app.suno.ai/" id="891">
+    <title>Suno</title>
+  </bookmark>
+  <bookmark href="https://ehco-relay.cc/" id="892">
+    <title>Ehco Relay</title>
+  </bookmark>
+  <bookmark href="https://anitabi.cn/map" id="915">
+    <title>地图 - 动画巡礼</title>
+  </bookmark>
+  <bookmark href="https://app.txyz.ai/" id="918">
+    <title>txyz.ai - Integrate all paths to knowledge</title>
+  </bookmark>
+  <bookmark href="https://fofa.info/" id="919">
+    <title>网络空间测绘，网络空间安全搜索引擎，网络空间搜索引擎，安全态势感知 - FOFA网络空间测绘系统</title>
+  </bookmark>
+  <bookmark href="https://free.flowerfire.org/#/chat" id="920">
+    <title>NextChat</title>
+  </bookmark>
+  <bookmark href="https://chatgptplus.cn/" id="921">
+    <title>RawChat公益站点</title>
+  </bookmark>
+  <bookmark href="https://chat.openai.com/" id="922">
+    <title>ChatGPT</title>
+  </bookmark>
+  <bookmark href="https://chat.oaipro.com/welcome" id="932">
+    <title>LobeChat</title>
+  </bookmark>
+  <bookmark href="http://www.aicnn.cn/toolPage" id="933">
+    <title>AICNN - 领先的AI技术平台 | AI绘画 | AI插件 | AI语音生成 | GPTS</title>
+  </bookmark>
+  <bookmark href="https://tongyi.aliyun.com/qianwen/" id="961">
+    <title>通义</title>
+  </bookmark>
+</folder>
+<folder id="1">
+  <title>Other Bookmarks</title>
+  <folder id="806">
+    <title>稍后再看</title>
+    <bookmark href="https://www.zhihu.com/question/547459689/answer/2986351425" id="807">
+      <title>(1 封私信) ipv6怎么ddns？ - 知乎</title>
+    </bookmark>
+    <bookmark href="https://www.jianshu.com/p/f58b694a5fa0" id="808">
+      <title>OpenWRT 阿里云DDNS ipv6 - 简书</title>
+    </bookmark>
+    <bookmark href="https://console.cloud.tencent.com/beian/manage/process/30170481352670916/addMaterial" id="809">
+      <title>我的备案 - ICP备案 - 控制台</title>
+    </bookmark>
+    <bookmark href="https://post.smzdm.com/p/anxr0w00/?sort_tab=hot%25252F" id="811">
+      <title>我的网络我做主 篇二：IPv6公网也能端口转发了(SocatG全网首发)_软件应用_什么值得买</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/imtech/article/details/128968444" id="812">
+      <title>使用IPV6+DDNS连接内网主机_ipv6 ddns-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://blog.csdn.net/LawssssCat/article/details/104443072" id="813">
+      <title>【笔记】openwrt - 【一文解决】ipv6设置、DDNS、端口转发_openwrt ipv6 端口转发-CSDN博客</title>
+    </bookmark>
+    <bookmark href="https://chip-tail-e93.notion.site/Ja-netfilter-9886afbfe1ed4d5e90a713e63718f647" id="823">
+      <title>Ja-netfilter常见问题解答,进群必看!</title>
+    </bookmark>
+    <bookmark href="https://zhuanlan.zhihu.com/p/436024560" id="835">
+      <title>逐步搭建现代大一统终端（Alacritty +Zellij -&gt; WezTerm） - 知乎</title>
+    </bookmark>
+    <bookmark href="https://blog.cloudflare.com/harnessing-office-chaos" id="869">
+      <title>Harnessing chaos in Cloudflare offices</title>
+    </bookmark>
+    <bookmark href="https://blog.skyju.cc/post/dae-docker-full-proxy/" id="895">
+      <title>使用 dae 配合 Clash 实现 Linux 网卡级全局代理，支持代理 Docker 容器</title>
+    </bookmark>
+    <bookmark href="https://idev.dev/proxy/dae-manual-installation.html" id="896">
+      <title>dae(大鹅) 内核级高性能透明代理工具- 安装和基本配置笔记 - 互联网技术分享 - Dev分享</title>
+    </bookmark>
+    <bookmark href="https://sakari.top/2023/dae-clash" id="897">
+      <title>使用dae和clash实现的全局代理方案 | Sakari’s Blog</title>
+    </bookmark>
+    <bookmark href="https://sakari.top/2021/windows-proxy" id="898">
+      <title>Windows下为PowerShell/CMD/Git设置代理 | Sakari’s Blog</title>
+    </bookmark>
+    <bookmark href="https://linux.do/t/topic/45180/63" id="929">
+      <title>如果 我说如果 我发了一下跟梯子有关的 会被封吗？ - 运营反馈 - LINUX DO</title>
+    </bookmark>
+    <bookmark href="https://juejin.cn/post/7342055465427484687" id="941">
+      <title>这波操作看麻了！十亿行数据，从71s到1.7s的优化之路。 - 掘金</title>
+    </bookmark>
+    <bookmark href="https://linux.do/t/topic/54745" id="943">
+      <title>还有类似于 pastebin.com [可编辑的]文本分享网站吗 - 常规话题 / 快问快答 - LINUX DO</title>
+    </bookmark>
+    <bookmark href="https://xiaoyaliu.notion.site/xiaoya-docker-69404af849504fa5bcf9f2dd5ecaa75f" id="952">
+      <title>如何设置xiaoya的docker</title>
+    </bookmark>
+  </folder>
+  <folder id="3">
+    <title>Openwrt</title>
+    <bookmark href="http://192.168.62.1:8088/login?redirect=%2Ffiles%2F" id="40">
+      <title>登录 - File Browser</title>
+    </bookmark>
+    <bookmark href="http://192.168.62.1:2345/webman/3rdparty/pan-xunlei-com/index.cgi/#/home" id="41">
+      <title>迅雷下载</title>
+    </bookmark>
+    <bookmark href="http://192.168.62.1/cgi-bin/luci/admin/services/xunlei" id="42">
+      <title>AMANMO - LuCI</title>
+    </bookmark>
+    <bookmark href="https://chrome.google.com/webstore/category/extensions" id="43">
+      <title>Chrome 应用商店 - 扩展程序</title>
+    </bookmark>
+    <bookmark href="http://192.168.62.1:9090/ui/dashboard/#/connections?host=192.168.62.1&amp;port=9090&amp;secret=123456" id="44">
+      <title>Clash</title>
+    </bookmark>
+    <bookmark href="http://192.168.1.2:9999/ui/#/conns" id="45">
+      <title>metacubexd</title>
+    </bookmark>
+    <bookmark href="http://192.168.62.1:5244/mnt/sda1" id="46">
+      <title>sda1 | Alist for OpenWRT</title>
+    </bookmark>
+    <bookmark href="http://192.168.62.1:9090/ui/yacd/?hostname=192.168.62.1&amp;port=9090&amp;secret=123456#/proxies" id="47">
+      <title>yacd</title>
+    </bookmark>
+    <bookmark href="http://192.168.8.1/#/login" id="48">
+      <title>GL.iNet Admin Panel</title>
+    </bookmark>
+    <bookmark href="http://192.168.8.1/cgi-bin/luci/" id="49">
+      <title>GL-MT3000 - 概览 - LuCI</title>
+    </bookmark>
+    <bookmark href="http://192.168.8.1:9090/ui/metacubexd/#/overview" id="50">
+      <title>metacubexd</title>
+    </bookmark>
+    <bookmark href="http://192.168.62.1/cgi-bin/luci/" id="870">
+      <title>OpenWrt - LuCI</title>
+    </bookmark>
+    <bookmark href="http://192.168.62.1:2017/" id="934">
+      <title>v2rayA</title>
+    </bookmark>
+  </folder>
+  <folder id="4">
+    <title>vi</title>
+    <bookmark href="https://aabb1801.com/" id="51">
+      <title>1_8_A_V_發佈頁</title>
+    </bookmark>
+    <bookmark href="https://51cg1.com/" id="52">
+      <title>51吃瓜网-热心的朝阳群众</title>
+    </bookmark>
+    <bookmark href="https://7mmtv.sx/zh/" id="54">
+      <title>7mmtv.sx - Watch JAV Online</title>
+    </bookmark>
+    <bookmark href="https://7mmtv.tv/zh/" id="53">
+      <title>7mmtv.tv - Watch JAV Online</title>
+    </bookmark>
+    <bookmark href="http://ekhsck.cc/" id="85">
+      <title>黄色仓库-hsck.net</title>
+    </bookmark>
+    <bookmark href="https://www.x666x.me/forum.php" id="86">
+      <title>论坛 - Powered by Discuz!</title>
+    </bookmark>
+    <bookmark href="https://madou.club/" id="76">
+      <title>麻豆社-专注国产剧情中文对白小电影</title>
+    </bookmark>
+    <bookmark href="https://ahri8.top/dnew.php?t=1669824000" id="84">
+      <title>松鼠症倉庫-更新列表 -頁數 1</title>
+    </bookmark>
+    <bookmark href="http://goodav17.com/actor/%E5%AE%87%E9%83%BD%E5%AE%AE%E7%B4%AB%E8%8B%91/1/" id="57">
+      <title>宇都宮紫苑 - 正妹AV | 免費線上成人影片，線上A片，線上AV</title>
+    </bookmark>
+    <bookmark href="http://goodav17.com/" id="58">
+      <title>正妹AV | 免費線上成人影片，線上A片，線上AV</title>
+    </bookmark>
+    <bookmark href="https://avgle.com/" id="59">
+      <title>Avgle</title>
+    </bookmark>
+    <bookmark href="https://nextjav.com/" id="60">
+      <title>Best Torrent JAV Website - NEXTJAV</title>
+    </bookmark>
+    <bookmark href="https://nyaa.si/" id="61">
+      <title>Browse :: Nyaa</title>
+    </bookmark>
+    <bookmark href="https://sukebei.nyaa.si/" id="62">
+      <title>Browse :: Sukebei</title>
+    </bookmark>
+    <bookmark href="https://recurbate.cc/" id="80">
+      <title>Chaturbate Archive – Recurbate</title>
+    </bookmark>
+    <bookmark href="https://e-hentai.org/" id="884">
+      <title>E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System</title>
+    </bookmark>
+    <bookmark href="https://pornve.com/" id="81">
+      <title>Free Porn Sex Videos - PornVe.com</title>
+    </bookmark>
+    <bookmark href="https://ggjav.com/" id="89">
+      <title>GGJAV | 最齊全的免費線上AV，線上A片，高清日本AV，線上成人影片，JAV</title>
+    </bookmark>
+    <bookmark href="https://my.j91.asia/" id="98">
+      <title>Home | Javsubs91</title>
+    </bookmark>
+    <bookmark href="https://jable.tv/" id="63">
+      <title>Jable.TV | 免費高清AV在線看 | J片 AV看到飽</title>
+    </bookmark>
+    <bookmark href="https://javbee.org/" id="88">
+      <title>JAVBEE.ORG</title>
+    </bookmark>
+    <bookmark href="https://javbooks.com/" id="64">
+      <title>Javbooks,線上日本成人影片情報站,線上日本成人影片磁力連結分享站,番號搜尋共享AV磁力連結</title>
+    </bookmark>
+    <bookmark href="https://javdb.com/" id="96">
+      <title>JavDB 成人影片數據庫</title>
+    </bookmark>
+    <bookmark href="https://www.jpvhub.com/en/" id="871">
+      <title>JPVhub - Free JAV Download &amp; Streaming All In One</title>
+    </bookmark>
+    <bookmark href="https://katcr.to/" id="65">
+      <title>KickassTorrents - Download torrent from Kickass Torrents</title>
+    </bookmark>
+    <bookmark href="https://ww1.chinababe.net/md-0204/" id="66">
+      <title>MD-0204 - Chinese Porn - CHINABABE.NET</title>
+    </bookmark>
+    <bookmark href="https://projectjav.com/movie/mird-131-95205" id="67">
+      <title>MIRD-131 4 Hours SPECIAL Yuna Shiina Yui Hatano Inagawa Natsume Kudo Misa Female Teacher Gangbang jav torrents - ProjectJav</title>
+    </bookmark>
+    <bookmark href="https://missav.com/" id="68">
+      <title>MissAV.com | 免費高清AV在線看</title>
+    </bookmark>
+    <bookmark href="https://www.netflav.com/" id="69">
+      <title>Netflav - 讓您在線上觀賞日本成人電影</title>
+    </bookmark>
+    <bookmark href="https://onejav.com/" id="70">
+      <title>OneJAV.com - Free JAV Torrents</title>
+    </bookmark>
+    <bookmark href="https://hitomi.la/popular/week-all.html" id="71">
+      <title>Popular | Hitomi.la</title>
+    </bookmark>
+    <bookmark href="https://simpcity.su/" id="94">
+      <title>SimpCity Forums</title>
+    </bookmark>
+    <bookmark href="https://thisav.com/ja/" id="97">
+      <title>ThisAV.com - 世界最高の中国アダルト エンターテイメント サイト</title>
+    </bookmark>
+    <bookmark href="https://pornzog.com/" id="82">
+      <title>Watch Free Porn Videos - PornZog Free Porn Clips</title>
+    </bookmark>
+    <bookmark href="https://yadongkorea.org/" id="75">
+      <title>야동코리아</title>
+    </bookmark>
+    <bookmark href="https://hsck3.26img.com/" id="958">
+      <title>黄色仓库 - hsck123.com</title>
+    </bookmark>
+    <bookmark href="https://hjcoolb02.top/" id="962">
+      <title>海角社区-约爱站-永久免费-免注册</title>
+    </bookmark>
+    <bookmark href="https://hggua1.top/" id="963">
+      <title>爆料 吃瓜 约炮 校园 网红 | 黑瓜网 HG.COOL</title>
+    </bookmark>
+    <bookmark href="https://cn.pornhub.com/" id="968">
+      <title>免费色情视频及性爱影片 – A片，X级，色情片分享网站 | Pornhub</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://developer.harmonyos.com/cn/docs/design/font-0000001157868583" id="5">
+    <title>字体-视觉风格-通用设计基础-HarmonyOS应用开发</title>
+  </bookmark>
+  <bookmark href="https://lingeringsound.github.io/10007_auto/" id="824">
+    <title>去广告(10007)</title>
+  </bookmark>
+  <bookmark href="https://dev-douban-fm--um-react.netlify.app/" id="825">
+    <title>音乐解锁 - Unlock Music</title>
+  </bookmark>
+</folder>
+</xbel>
